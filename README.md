@@ -16,6 +16,11 @@
 - MI10系列修改為新版相機浮水印
 - MI12&CIVI系列加入前攝補光介面
 
+### 注意事項
+- Magisk直接刷入即可使用
+- 僅支援MIUI12.5開發版以上版本
+- 穩定版無法使用(因為底層架構不同)
+
 ### Changelog
 ## v4.3.002962.0 (220212)
 - Fast updates are now supported
