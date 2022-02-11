@@ -17,6 +17,7 @@
 - MI12&CIVI系列加入前攝補光介面
 
 ### Changelog
+## v4.3.002962.0 (220212)
 - Fast updates are now supported
 
 ### 更新日誌
