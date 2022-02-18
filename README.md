@@ -8,7 +8,8 @@
 - 部分機型修改為新版相機浮水印(※)
 - MI12&CIVI系列加入前攝補光介面
 
-※新版浮水印機型:小米10/小米10Pro/小米10 Ultra/小米10S/小米11/小米11 Pro/小米11 Ultra/小米12系列/紅米K30 Pro/紅米K40
+※新版浮水印機型:小米10/小米10 Pro/小米10 Ultra/小米10S/小米11/小米11 Pro/小米11 Ultra/小米12系列/紅米K30/紅米K30 Pro/紅米K40
+(cmi/umi/cas/thyme/venus/mars/star/picasso/lmi/alioth)
 
 ### 僅部分機型可使用功能(避免出現錯誤)
 - 萌拍3.0
