@@ -1,5 +1,6 @@
+## 4.3.003281.0 (220301)
 ### Changelog
-- Fast updates are now supported
+- Update the camera code.
 
 ### 更新日誌
-- 現在支援快速更新
+- 更新相機代碼
