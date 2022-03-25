@@ -1,3 +1,4 @@
+## v4.3.003591.0 (220325)
 ### Changelog
 - Cooperate with upstream to update the camera version.
 - Optimized camera startup speed.
