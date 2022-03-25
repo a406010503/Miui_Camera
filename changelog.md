@@ -2,7 +2,7 @@
 ### Changelog
 - Cooperate with upstream to update the camera version.
 - Optimized camera startup speed.
-- New Big Demon camera UI icon interface.
+- New Big Demon camera UI icon interface. (3/26 Fix the problem that it does not apply, the compatible model is the same as the new version of the watermark)
 - Major changes to the camera interface.
 - Return to the functions enabled on all models:
   1. Mengpai 3.0
@@ -15,7 +15,7 @@
 ### 更新日誌
 - 配合上游更新相機版本
 - 優化相機啟動速度
-- 新的大魔王相機UI圖標介面
+- 新的大魔王相機UI圖標介面(3/26 修復未套用的問題，適配的機型與新版水印相同)
 - 相機介面大幅度變動
 - 回歸全機型開啟的功能:
   1. 萌拍3.0
