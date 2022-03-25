@@ -2,7 +2,8 @@
 ### Changelog
 - Cooperate with upstream to update the camera version.
 - Optimized camera startup speed.
-- New Great Demon Camera UI interface.
+- New Big Demon camera UI icon interface.
+- Major changes to the camera interface.
 - Return to the functions enabled on all models:
   1. Mengpai 3.0
   2. Supermoon
@@ -14,7 +15,8 @@
 ### 更新日誌
 - 配合上游更新相機版本
 - 優化相機啟動速度
-- 新的大魔王相機UI介面
+- 新的大魔王相機UI圖標介面
+- 相機介面大幅度變動
 - 回歸全機型開啟的功能:
   1. 萌拍3.0
   2. 超級月亮
