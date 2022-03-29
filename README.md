@@ -23,7 +23,7 @@
 
 ※v4.3.003591.0(220329)追加套用的機型：**REDMI K40 Pro/POCO X3/POCO X3 Pro/MI CC9 Pro/MI 11 Lite 5G/MI 10 Lite 5G/MI MIX 4/MI 11T Pro/REDMI K30/REDMI NOTE 10/REDMI NOTE 11/MI 11 LITE 5G NE**
 (haydn/karna/bhima/pyxis/renoir/monet/odin/vili/phoenix/mojito/spes/lisa)
-之後的版本除非心血來潮或有重大改版不然應該不會追加了，隨緣更新。
+這邊列出的機型除非心血來潮或有重大改版不然應該不會在之後的版本追加了，目前只做這一次，隨緣更新。
 
 ※小米12系列/K50系列等近期新推出的機型已經官方預設套用新版浮水印
 
