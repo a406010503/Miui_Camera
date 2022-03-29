@@ -20,7 +20,8 @@
 
 ※套用新版浮水印與大魔王Kino相機介面UI的機型:**MI 10/MI 10 Pro/MI 10 Ultra/MI 10S/MI 11/MI 11 Pro/MI 11 Ultra/REDMI K30 5G/REDMI K30 Pro/REDMI K40**
 (umi/cmi/cas/thyme/venus/mars/star/picasso/lmi/alioth)
-v4.3.003591.0(220329)追加套用的機型：**REDMI K40 Pro/POCO X3/POCO X3 Pro/MI CC9 Pro/MI 11 Lite 5G/MI 10 Lite 5G/MI MIX 4/MI 11T Pro/REDMI K30/REDMI NOTE 10/REDMI NOTE 11/MI 11 LITE 5G NE**
+
+※v4.3.003591.0(220329)追加套用的機型：**REDMI K40 Pro/POCO X3/POCO X3 Pro/MI CC9 Pro/MI 11 Lite 5G/MI 10 Lite 5G/MI MIX 4/MI 11T Pro/REDMI K30/REDMI NOTE 10/REDMI NOTE 11/MI 11 LITE 5G NE**
 (haydn/karna/bhima/pyxis/renoir/monet/odin/vili/phoenix/mojito/spes/lisa)
 之後的版本除非心血來潮或有重大改版不然應該不會追加了，隨緣更新。
 
