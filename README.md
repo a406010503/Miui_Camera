@@ -6,17 +6,23 @@
 - 電影鏡頭
 - 多機聯錄
 - 手勢拍照
+- 魔法分身
+- 長曝光
+- 文檔模式2.0
 - 專業模式照片風格
 - 前置拍照2X變焦
 - 無聲街拍(連拍+錄影)
-- S865以上機型修改為新版相機浮水印(※)
-- S865以上機型大魔王Kino相機介面UI(※)
+- 部分機型修改為新版相機浮水印(※)
+- 部分機型修改為大魔王Kino相機介面UI(※)
 - 全機型加入MI12&CIVI系列的前攝補光介面
 
 ※部分功能僅在v4.3.003591.0之後的版本生效
 
-※套用新版浮水印與大魔王Kino相機介面UI的機型:小米10/小米10 Pro/小米10 Ultra/小米10S/小米11/小米11 Pro/小米11 Ultra/紅米K30/紅米K30 Pro/紅米K40
+※套用新版浮水印與大魔王Kino相機介面UI的機型:**MI 10/MI 10 Pro/MI 10 Ultra/MI 10S/MI 11/MI 11 Pro/MI 11 Ultra/REDMI K30 5G/REDMI K30 Pro/REDMI K40**
 (umi/cmi/cas/thyme/venus/mars/star/picasso/lmi/alioth)
+v4.3.003591.0(220329)追加套用的機型：**REDMI K40 Pro/POCO X3/POCO X3 Pro/MI CC9 Pro/MI 11 Lite 5G/MI 10 Lite 5G/MI MIX 4/MI 11T Pro/REDMI K30/REDMI NOTE 10/REDMI NOTE 11/MI 11 LITE 5G NE**
+(haydn/karna/bhima/pyxis/renoir/monet/odin/vili/phoenix/mojito/spes/lisa)
+之後的版本除非心血來潮或有重大改版不然應該不會追加了，隨緣更新。
 
 ※小米12系列/K50系列等近期新推出的機型已經官方預設套用新版浮水印
 
