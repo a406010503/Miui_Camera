@@ -18,11 +18,11 @@
 
 ※部分功能僅在v4.3.003591.0之後的版本生效
 
-※套用新版浮水印與大魔王Kino相機介面UI的機型:**MI 10/MI 10 Pro/MI 10 Ultra/MI 10S/MI 11/MI 11 Pro/MI 11 Ultra/REDMI K30 5G/REDMI K30 Pro/REDMI K40**
-(umi/cmi/cas/thyme/venus/mars/star/picasso/lmi/alioth)
+※套用新版浮水印與大魔王Kino相機介面UI的機型:**MI 10/Mi 10 Pro/Mi 10 Ultra/Mi 10S/MI 11/Mi 11 Pro/Mi 11 Ultra/Redmi K30 5G/Redmi K30/Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
+(umi/cmi/cas/thyme/venus/mars/star/picasso/phoenix/lmi/alioth/haydn)
 
-※v4.3.003591.0(220329)追加套用的機型：**REDMI K40 Pro/POCO X3/POCO X3 Pro/MI CC9 Pro/MI 11 Lite 5G/MI 10 Lite 5G/MI MIX 4/MI 11T Pro/REDMI K30/REDMI NOTE 10/REDMI NOTE 11/MI 11 LITE 5G NE**
-(haydn/karna/bhima/pyxis/renoir/monet/odin/vili/phoenix/mojito/spes/lisa)
+※v4.3.003591.0(220329)追加套用的機型：**Poco X3/Poco X3 Pro/Mi CC9 Pro/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11/Mi 11 Lite 5G NE**
+(karna/bhima/pyxis/renoir/monet/odin/vili/mojito/spes/lisa)
 這邊列出的機型除非心血來潮或有重大改版不然應該不會在之後的版本追加了，目前只做這一次，隨緣更新。
 
 ※小米12系列/K50系列等近期新推出的機型已經官方預設套用新版浮水印
