@@ -24,9 +24,9 @@
 (umi/cmi/cas/thyme/venus/mars/star/picasso/phoenix/lmi/alioth/haydn)
 - v4.3.003591.0(220329/220421)追加套用的機型：**Poco X3/Poco X3 Pro/Mi CC9 Pro/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11/Mi 11 Lite 5G NE**
 (karna/bhima/pyxis/renoir/monet/odin/vili/mojito/spes/lisa)
-- v4.3.003591.0(220501)追加套用的機型：**Mi 10T/Mi 10T Pro/Redmi K30S**
-以上列出的追加套用機型除非心血來潮或有重大改版不然應該不會在之後的版本追加了，目前只做這一次，隨緣更新。
-- Xiaomi 12系列/Redmi K50系列等近期新推出的機型已經官方預設套用新版浮水印，在3591(220501)版本額外為Xiaomi 12系列及Redmi K50G添加了KinoUI介面
+- v4.3.003591.0(220501)追加套用的機型：**Mi 10T/Mi 10T Pro/Redmi K30S** (Apollo/Apollo_Pro)
+- 以上列出的追加套用機型除非心血來潮或有重大改版不然應該不會在之後的版本追加了，目前只做這一次，隨緣更新
+- Xiaomi 12系列/Redmi K50系列等近期新推出的機型已經官方預設套用新版浮水印，在3591(220501)版本額外為Xiaomi 12系列及Redmi K50G添加了KinoUI介面 (cupid/zeus/psyche/ingres)
 - 錄影HDR/超級防抖功能部分機型由於硬體確實不支援故已在不支援的機型當中刪除，強加功能雖有開關但開啟可能會帶來嚴重發熱與耗電問題
 - 由於未在各機型做過測試，若有功能出現問題(尤其是機型浮水印)還請不吝嗇回報，感謝您~
 
