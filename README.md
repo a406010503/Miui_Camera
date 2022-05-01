@@ -40,6 +40,7 @@
 ### 致謝
 - 感謝酷安 @小陳同學 技術提供
 
+
 # [Magisk module] Miui camera function completion-Miui_Camera
 ### Module introduction
 ★ Added the following camera functions (※)
@@ -59,7 +60,7 @@
 - All models add MI12&CIVI series active fill light interface
 - Enabled CIVI's new portrait mode aesthetic for all phone models
 
-###Notes [The following instructions are long, please read carefully before use]
+### Notes [The following instructions are long, please read carefully before use]
 - Some functions only take effect in v4.3.003591.0 (220326-220501) version
 - Preview builds built on Beta will only have basic functionality, not full functionality (like new model watermarks/KinoUI)
 - Models with new watermark and Kino camera interface UI: ** Mi 10/ Mi 10 Pro/ Mi 10 Ultra/ Mi 10S/ Mi 11/ Mi 11 Pro/ Mi 11 Ultra/ Redmi K30 5G/ Redmi K30/ Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
