@@ -3,7 +3,7 @@
 - Adapted to the new watermark for Redmi K30S, Mi 10T, Mi 10T Pro. (Redmi K30S will display Mi 10T)
 - Added Mi 12, Mi 12X, Mi 12 Pro, Poco F4 GT, Redmi K50G, Redmi K30S, Mi 10T, Mi 10T Pro KinoUI camera interface.
 
-*Thanks to Github@Hs0 for providing 10T Pro mobile phone model adaptation tutorial.
+*Thanks to Github@Hs0 for providing Mi 10T Pro mobile phone model adaptation tutorial.
 
 ### 更新日誌
 - 為Redmi K30S、Mi 10T、Mi 10T Pro適配480Fps慢動作
