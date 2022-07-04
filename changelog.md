@@ -1,4 +1,4 @@
-#### 4.3.004660.0 (測試通道版)
+## 4.3.004660.0 (測試通道版)
 ### Changelog
 - Extracted from Xiaomi 12S Ultra official engineering machine, with exclusive features and functions of Leica models, theoretically all models can be used.
 ※Note: This version is extracted from the Chinese version (does not have any modified version functions on this project)
@@ -7,7 +7,7 @@
 - 提取自Xiaomi 12S Ultra官方工程機，具有徠卡機型的專屬特色功能，理論全機型皆可使用。
 ※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
 
-#### 4.3.003591.0 (穩定通道版)
+## 4.3.003591.0 (穩定通道版)
 ### Changelog
 - Suitable for slow motion 480Fps for Redmi K30S, Mi 10T, Mi 10T Pro.
 - Adapted to the new watermark for Redmi K30S, Mi 10T, Mi 10T Pro. (Redmi K30S will display XIAOMI 10T)
