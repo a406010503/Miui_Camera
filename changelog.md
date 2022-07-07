@@ -1,3 +1,12 @@
+## 4.3.004700.1 (測試通道版)
+### Changelog
+- The official version of Mi 12S Pro, which has the unique features and functions of Leica models, and can theoretically be used by all models.
+※Note: This version is extracted from the Chinese version (does not have any modified version functions on this project)
+
+### 更新日誌
+- Xiaomi 12S Pro官方版本，具有萊卡機型的專屬特色功能，理論全機型皆可使用。
+※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
+
 ## 4.3.004660.0 (測試通道版)
 ### Changelog
 - Extracted from Xiaomi 12S Ultra official engineering machine, with exclusive features and functions of Leica models, theoretically all models can be used.
