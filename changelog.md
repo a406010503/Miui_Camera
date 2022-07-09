@@ -40,7 +40,7 @@
 - 提取自Xiaomi 12S Ultra官方工程機，具有徠卡機型的專屬特色功能，理論全機型皆可使用。
 ※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
 
-#穩定版
+# 穩定版
 ## 4.3.003591.0 (穩定通道版)
 ### Changelog
 - Suitable for slow motion 480Fps for Redmi K30S, Mi 10T, Mi 10T Pro.
