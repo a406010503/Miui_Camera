@@ -1,4 +1,4 @@
-# [Magisk模組]Miui相機功能補全-Miui_Camera
+# [Magisk模組]Miui相機功能補全-Miui_Camera【[繁體中文](https://github.com/a406010503/Miui_Camera/blob/main/README.md)｜[English](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)】
 ## 請注意：Xiaomi 10S系列的徠卡相機(發佈預覽版)並不適用以下修改內容。
 ### 模組介紹
 ★ 額外補全以下相機功能(※)
