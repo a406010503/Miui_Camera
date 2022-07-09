@@ -1,5 +1,5 @@
 # [Magisk module] Miui camera function completion-Miui_Camera
-## **【[繁體中文](https://github.com/a406010503/Miui_Camera/blob/main/README.md)｜[English](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)】**
+## **【[繁體中文](https://github.com/a406010503/Miui_Camera/blob/main/README.md)｜English】**
 ## PLEASE NOTE: The Leica Camera (release preview) of the Mi 10S series does not work with the following.
 ### Module introduction
 ★ Added the following camera functions (※)
