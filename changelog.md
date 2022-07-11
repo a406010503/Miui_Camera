@@ -16,7 +16,6 @@
 - This version has not added the full model long exposure, magic clone, document mode 2.0
 - This version does not have the features of the xiaomi.eu version, so there is no multi-camera multi-camera recording, silent street shooting (video option) and other functions.
 - Removed the Kino Demon King interface, because the new version does not work.
-- Removed the new beauty function of portrait mode, because it cannot be forced to be turned on in the current version.
 
 ### 更新日誌
 - 此版本具有本專案上部分修改版特色功能，經測試無問題故發行正式版
@@ -24,7 +23,6 @@
 - 此版本未有加入全機型長曝光、魔法分身、文檔模式2.0
 - 此版本未有xiaomi.eu版本的特性，故沒有全機型多機聯錄、無聲街拍(錄影選項)等功能
 - 移除了Kino大魔王介面，因為新版並不適用
-- 移除了人像模式新美顏功能，因為在目前版本已無法強制開啟
 
 # 穩定版
 ## 4.3.003591.0 (穩定通道版)
