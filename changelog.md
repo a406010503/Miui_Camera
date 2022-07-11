@@ -1,44 +1,30 @@
 # 測試版
-## 4.3.004750.1 (測試通道版)
+## 4.3.004870.0 (測試通道版)
 ### Changelog
-- Modified from Xiaomi 12S Ultra camera version, with exclusive features of Leica models (Leica Vivid/Classic switch, Leica filter), theoretically all models can be used.
- ※Note: This version is extracted from the Chinese version (does not have any modified version functions on this project)
- ※ Known BUG:
- - Currently MX582 only has 960fps slow motion
- - Filter flashback (MIUI issue)
- - Xiaomi 11 Ultra HDR has problems
- - Problem with Redmi Note 9 Pro
- - Redmi K40 Pro night scene flashback
-
-### 更新日誌
-- 修改自Xiaomi 12S Ultra相機版本，具有萊卡機型的專屬特色功能（徠卡生動/經典開關、徠卡濾鏡），理論全機型皆可使用。
-※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
-※已知BUG:
-- 目前MX582才有960fps慢動作
-- 濾鏡閃退（MIUI的問題）
-- Xiaomi 11 Ultra HDR有問題
-- Redmi Note 9 Pro有問題
-- Redmi K40 Pro夜景閃退
-
-感謝相機原作者：酷安@ SetoSkins
-
-## 4.3.004700.1 (測試通道版)
-### Changelog
-- The official version of Mi 12S Pro, which has the unique features and functions of Leica models, and can theoretically be used by all models.
+- Modified version of Xiaomi 12S Ultra camera, with exclusive features of Leica models, theoretically all models can be used.
 ※Note: This version is extracted from the Chinese version (does not have any modified version functions on this project)
 
 ### 更新日誌
-- Xiaomi 12S Pro官方版本，具有萊卡機型的專屬特色功能，理論全機型皆可使用。
+- Xiaomi 12S Ultra相機修改版本，具有徠卡機型的專屬特色功能，理論全機型皆可使用。
 ※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
 
-## 4.3.004660.0 (測試通道版)
+# 穩定版
+## 4.3.004700.1 (穩定通道版)
 ### Changelog
-- Extracted from Xiaomi 12S Ultra official engineering machine, with exclusive features and functions of Leica models, theoretically all models can be used.
-※Note: This version is extracted from the Chinese version (does not have any modified version functions on this project)
+- This version has some features of the modified version of this project, and the official version has been released without any problems after testing.
+- Added a new version of the model watermark (for details, please refer to this project description)
+- This version has not added the full model long exposure, magic clone, document mode 2.0
+- This version does not have the features of the xaiomi.eu version, so there is no multi-camera multi-camera recording, silent street shooting (video option) and other functions.
+- Removed the Kino Demon King interface, because the new version does not work.
+- Removed the new beauty function of portrait mode, because it cannot be forced to be turned on in the current version.
 
 ### 更新日誌
-- 提取自Xiaomi 12S Ultra官方工程機，具有徠卡機型的專屬特色功能，理論全機型皆可使用。
-※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
+- 此版本具有本專案上部分修改版特色功能，經測試無問題故發行正式版
+- 加入了新版機型浮水印（詳情機型請見本專案說明）
+- 此版本未有加入全機型長曝光、魔法分身、文檔模式2.0
+- 此版本未有xaiomi.eu版本的特性，故沒有全機型多機聯錄、無聲街拍(錄影選項)等功能
+- 移除了Kino大魔王介面，因為新版並不適用
+- 移除了人像模式新美顏功能，因為在目前版本已無法強制開啟
 
 # 穩定版
 ## 4.3.003591.0 (穩定通道版)
