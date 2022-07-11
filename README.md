@@ -24,7 +24,7 @@
 - 基於測試版構建的Preview版本只會有基礎的功能，沒有全開功能(例如新版機型水印/KinoUI)
 - 套用新版浮水印與大魔王Kino相機介面UI的機型:**MI 10/Mi 10 Pro/Mi 10 Ultra/Mi 10S/MI 11/Mi 11 Pro/Mi 11 Ultra/Redmi K30 5G/Redmi K30/Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
 (umi/cmi/cas/thyme/venus/mars/star/picasso/phoenix/lmi/alioth/haydn)
-- v4.3.003591.0(220329/220421)追加套用的機型：**Poco X3/Poco X3 Pro/Mi CC9 Pro/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11/Mi 11 Lite 5G NE**
+- v4.3.003591.0(220329/220421)追加套用的機型：**Poco X3/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11/Mi 11 Lite 5G NE**
 (karna/bhima/pyxis/renoir/monet/odin/vili/mojito/spes/lisa)
 - v4.3.003591.0(220501)追加套用的機型：**Mi 10T/Mi 10T Pro/Redmi K30S** (Apollo/Apollo_Pro)
 - 以上列出的追加套用機型除非心血來潮或有重大改版不然應該不會在之後的版本追加了，目前只做這一次，隨緣更新
