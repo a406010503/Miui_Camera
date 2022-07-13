@@ -8,7 +8,7 @@
 - Xiaomi 12S Ultra相機修改版本，具有徠卡機型的專屬特色功能，理論全機型皆可使用。
 ※注意：此版本為陸版提取（不具有本專案上的任何修改版功能）
 
-# 穩定版
+# 測試版
 ## 4.3.004700.1 (測試通道版)
 ### Changelog
 - This version has some features of the modified version of this project, and the official version has been released without any problems after testing.
