@@ -1,6 +1,6 @@
 # [Magisk模組]Miui相機功能補全-Miui_Camera
 ## **【繁體中文｜[English](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)】**
-## 注意1：Xiaomi 12S系列的徠卡相機(發佈預覽版)並不適用以下修改內容。具體請見【[徠卡相機安裝說明](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
+## 注意1：Xiaomi 12S系列的徠卡相機(發佈預覽版)並不適用以下修改內容。具體請見【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
 ## 注意2：隨著S865機型內測已停更，相機版本今後將不再繼續更新(除非之後的版本有較大幅度變動)，只負責修正舊版本BUG。
 ### 模組介紹
 ★ 額外補全以下相機功能(※)
