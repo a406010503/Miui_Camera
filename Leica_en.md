@@ -12,6 +12,7 @@ In addition, Leica's exclusive custom watermark can be activated!
 As for whether the image quality of the photo has been improved, we will wait for you to experience it. The Leica algorithm is definitely there!
 
 In order to avoid problems, we recommend that you unzip the camera APK in the package (located in system/app/MiuiCamera.apk) and install it directly by cracking the core
+
 You can use woobox and other software with the core cracking function to perform the "five-item full-open" installation. If you don't know what it means, it is not recommended for you to use it!
 ※Note: Please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the core crack installation!
 
