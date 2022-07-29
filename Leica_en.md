@@ -2,8 +2,8 @@
 Applicable versions: 4660, 4700, 4750, 4780, 4790, 4870
 
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
-Installing this item may result in "Cammy" or "Camera Lost"
-If you don't know what Kami is and don't know how to save bricks, we strongly advise you not to use this mod!
+Installing this item may cause "stuck on MI LOGO" or "camera loss"
+If you don't know what is stuck in MI LOGO and don't know how to save the brick, we strongly recommend you not to use this module!
 
 By installing this module, you will be able to enjoy the exclusive Leica features of the Mi 12S series
 Included: Leica Classic, Leica Vivid Photo Style options can be turned on! (The default photo mode is Leica Vivid)
