@@ -1,4 +1,4 @@
-# [MiuiCamera模塊專案說明頁](https://github.com/a406010503/Miui_Camera) 繁體中文 | [English](https://github.com/a406010503/Miui_Camera/edit/main/Leica_en.md)
+# [Miui Camera](https://github.com/a406010503/Miui_Camera) 繁體中文 | [English](https://github.com/a406010503/Miui_Camera/edit/main/Leica_en.md)
 ## 開發人員
 [聖小熊 (a406010503)](https://github.com/a406010503)
 
