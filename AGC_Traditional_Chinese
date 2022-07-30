@@ -744,7 +744,7 @@
   <string name="pref_depth_every_photo_summary">系統將保存景深資料。社交媒體應用可能會使用這些資料。系統將關閉絕佳鏡頭功能，而且處理照片可能會多用一些時間。</string>
   <string name="pref_depth_every_photo_title">社交媒體景深資料功能</string>
   <string name="pref_developer_settings">開發者選項</string>
-  <string name="pref_dnd_access_needed_title">需要“勿擾”許可權</string>
+  <string name="pref_dnd_access_needed_title">需要「勿擾」許可權</string>
   <string name="pref_exposure_control">曝光</string>
   <string name="pref_exposure_control_summary">調節亮度和陰影</string>
   <string name="pref_free_up_space">釋放空間</string>
@@ -760,7 +760,7 @@
   <string name="pref_low_storage_mode_auto_disable_summary">如果設備有至少 %d GB 的可用儲存空間，系統會關閉儲存空間節省程式。</string>
   <string name="pref_low_storage_mode_summary">為了最佳化儲存空間，儲存空間節省程式將更改會使用大量儲存空間的設置。這可能會降低圖片或影片畫質。</string>
   <string name="pref_raw_output_control_action_button">查看 RAW 資料夾</string>
-  <string name="pref_raw_output_control_summary">顯示在檢視器中開啟 RAW+JPEG 的選項。系統會將 RAW (DNG) 檔以及可識別的相機資料單獨保存到 Google 相冊中的設備資料夾中。這樣做會佔用更多儲存空間。</string>
+  <string name="pref_raw_output_control_summary">顯示在檢視器中開啟 RAW+JPEG 的選項。系統會將 RAW (DNG) 檔以及可識別的相機資料單獨保存到 Google 相簿中的設備資料夾中。這樣做會佔用更多儲存空間。</string>
   <string name="pref_raw_output_control_title">RAW+JPEG 控制項</string>
   <string name="pref_storage_summary">%2$s，%1$s</string>
   <string name="pref_video_hevc">高效地儲存影片</string>
@@ -828,8 +828,8 @@
   <string name="settings_changed_item_description">如果啟用，“%s”設置將會發生變化。</string>
   <string name="settings_impacted_button">儲存空間節省程式會更改的設置</string>
   <string name="settings_open_desc">打開設置</string>
-  <string name="setup_mars_description">將照片和影片保存到設備上 Google 相冊中的一個私密儲存空間內。您可以使用當前的設備螢幕鎖定方式來打開“已鎖定的資料夾”。</string>
-  <string name="setup_mars_title">設置“已鎖定的資料夾”</string>
+  <string name="setup_mars_description">將照片和影片保存到設備上 Google 相簿中的一個私密儲存空間內。您可以使用當前的設備螢幕鎖定方式來打開“已鎖定的資料夾”。</string>
+  <string name="setup_mars_title">設置「已鎖定的資料夾」</string>
   <string name="shadow_ev_announcement">目前的陰影值為 %1$s</string>
   <string name="shadow_knob_accessibility_description">陰影調節按鈕</string>
   <string name="shadow_knob_tooltip_description">僅調整圖片的 陰暗部分</string>
@@ -860,7 +860,7 @@
   <string name="speech_enhance_on">開啟</string>
   <string name="speech_enhance_on_desc">音質最佳化功能已開啟</string>
   <string name="speed_up_ratio_no_translated">%sx</string>
-  <string name="split_1213954198">智能捕捉</string>
+  <string name="split_1213954198">智慧捕捉</string>
   <string name="split_141653832">Portrait Native and Assets</string>
   <string name="split_175196894">Lightcycle Native and Assets</string>
   <string name="split_448930172">自動焦點跟蹤</string>
@@ -871,7 +871,7 @@
   <string name="stab_button_open_description">影片防抖按鈕。列表中有四個項目。</string>
   <string name="stab_menu_header">影片防抖</string>
   <string name="stabilization_description_action">適用于大量動作</string>
-  <string name="stabilization_description_enhanced">適用於少量動作（默認）</string>
+  <string name="stabilization_description_enhanced">適用於少量動作（預設）</string>
   <string name="stabilization_description_locking">適用於遠距離固定鏡頭（2 倍變焦）</string>
   <string name="stabilization_description_panning">適用於平穩移動的鏡頭（半速、靜音）</string>
   <string name="stabilization_edu_active_sidebyside_video_announcement">並排顯示的兩個影片拍攝的是同一個開著水上摩托艇的人，一個影片未使用防抖功能，另一個影片使用了動態防抖功能。</string>
@@ -1156,7 +1156,7 @@
   <string name="camera_kepler_enabled_summary">匯出圖片和延時攝影。這會使用較多的儲存空間。</string>
   <string name="pref_astro_title">天文攝影開始</string>
   <string name="pref_oneshot_title">OneShot 開始拍照</string>
-  <string name="hdrplus_frames_count_title">HDR+幀數（默認為0）</string>
+  <string name="hdrplus_frames_count_title">HDR+幀數（預設為0）</string>
   <string name="frame_count_title">相機模式幀數</string>
   <string name="ns_frame_count_title">夜視模式幀數</string>
   <string name="astro_frame_count_title">天文模式幀數</string>
@@ -1178,7 +1178,7 @@
   <string name="expcomp_p3">+0.7</string>
   <string name="expcomp_p2">+0.5</string>
   <string name="expcomp_p1">+0.3</string>
-  <string name="expcomp_0">0 (默認)</string>
+  <string name="expcomp_0">0 (預設)</string>
   <string name="expcomp_m1">-0.3</string>
   <string name="expcomp_m2">-0.5</string>
   <string name="expcomp_m3">-0.7</string>
@@ -1194,7 +1194,7 @@
   <string name="eis_v_title">攝影模式會話</string>
   <string name="eis_v1_title">照片模式的附加會話</string>
   <string name="eis_v_summary">EISv2 = 61444, EISv3 = 61448, SM8150 = 32770, SM8250 = 40962</string>
-  <string name="def_astro_title">默認啟動</string>
+  <string name="def_astro_title">預設啟動</string>
   <string name="def_astro_summary">啟用設備穩定檢查。</string>
   <string name="aemode_title">後置鏡頭ISO/時間HDR+</string>
   <string name="aemode_auto">自動</string>
@@ -1212,7 +1212,7 @@
   <string name="dev_glpreview_title">GL預覽</string>
   <string name="dev_glpreview_summary">camera.cuttle.glpreview (關閉：夜視模式下可能出現黑色取景器)</string>
   <string name="dev_mts_gpu_yuv_title">GPU YUV</string>
-  <string name="dev_mts_gpu_yuv_summary">camera.mts_gpu_yuv (默認開啟)</string>
+  <string name="dev_mts_gpu_yuv_summary">camera.mts_gpu_yuv (預設開啟)</string>
   <string name="pref_hexagon_title">禁用Hexagon DSP(數位訊號處理器)</string>
   <string name="pref_hexagon_summary">消除HDR+處理凍結並加快 HDR+ 處理速度</string>
   <string name="custom_lib_setting_title">自訂庫</string>
@@ -1285,7 +1285,7 @@
   <string name="merge_4">4 (無效的)</string>
   <string name="shasta_title">Shasta係數</string>
   <string name="shasta_summary">包圍式曝光 = %s</string>
-  <string name="shasta_def">默認</string>
+  <string name="shasta_def">預設</string>
   <string name="shasta_1">綠色分割 x1</string>
   <string name="shasta_10">綠色分割 x10</string>
   <string name="shasta_25">綠色分割 x25</string>
@@ -1627,11 +1627,11 @@
   <string name="_br">_BR_(Def 0.093)</string>
   <string name="_bg">_BG_(Def -0.914)</string>
   <string name="_bb">_BB_(Def 1.828)</string>
-  <string name="red_coeff">紅色係數(默認1.0)</string>
-  <string name="green_coeff">綠色係數(默認1.0)</string>
-  <string name="blue_coeff">藍色係數(默認1.0)</string>
-  <string name="rg_coeff">rg係數(默認1.0)</string>
-  <string name="bg_coeff">bg係數(默認1.0)</string>
+  <string name="red_coeff">紅色係數(預設1.0)</string>
+  <string name="green_coeff">綠色係數(預設1.0)</string>
+  <string name="blue_coeff">藍色係數(預設1.0)</string>
+  <string name="rg_coeff">rg係數(預設1.0)</string>
+  <string name="bg_coeff">bg係數(預設1.0)</string>
   <string name="awb_gain_fix">白平衡增益修復</string>
   <string name="manual_noise_model">手動噪點模型</string>
   <string name="noise_model_a">噪點模型A</string>
@@ -1665,7 +1665,7 @@
   <string name="qjpg_title">JPEG 品質</string>
   <string name="geometric_calibration_raw_fix_title">幾何校準RAW修復</string>
   <string name="geometric_calibration_raw_fix_summary">這將允許您將RAW、DNG檔導入一加設備上的Snapseed和Lightroom,但可能會增加噪點</string>
-  <string name="qjpg_97">97％（默認）</string>
+  <string name="qjpg_97">97％（預設）</string>
   <string name="antibanding_title">防頻閃模式</string>
   <string name="antibanding_auto">自動</string>
   <string name="antibanding_off">關閉</string>
@@ -1690,10 +1690,10 @@
   <string name="show_hirizon_level_tips_title">顯示地平線水準提示</string>
   <string name="show_hirizon_level_tips_summary">需要啟用動態照片</string>
   <string name="dci_p3_title">DCI-P3廣色域</string>
-  <string name="dci_p3_summary">包括iPhone 7及更高版本默認使用的DCI-P3色彩空間, 它可以讓您覆蓋大部分自然光譜</string>
+  <string name="dci_p3_summary">包括iPhone 7及更高版本預設使用的DCI-P3色彩空間, 它可以讓您覆蓋大部分自然光譜</string>
   <string name="focus_lock_time_title">手動對焦後持續鎖焦時長</string>
   <string name="focus_lock_time_summary">對焦後鎖定持續的時間</string>
-  <string name="focus_lock_time_default">默認</string>
+  <string name="focus_lock_time_default">預設</string>
   <string name="focus_lock_time_4">4 秒</string>
   <string name="focus_lock_time_6">6 秒</string>
   <string name="focus_lock_time_8">8 秒</string>
