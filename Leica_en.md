@@ -20,7 +20,7 @@ Since this project is not officially allowed by Xiaomi, and the official still t
 **This item is for academic use only, please remove it within 24 hours after use. **
 
 ## About the Leica Camera Completion Project
-Applicable versions: 4700, 4790 (unpublished), 4870 (unpublished)
+Applicable versions: 4700, 4790 (unpublished), 4870
 
 At present, we have tried to complete the functions mentioned in the project for Leica cameras.
 However, based on the particularity of the camera, it cannot perfectly complement all functions.
