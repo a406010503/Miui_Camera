@@ -11,8 +11,12 @@
 
 ### Important warning
 Flashing this module may cause the camera to be lost. If you encounter this problem, please remove the module and restart
+
 This version additionally provides Apk files for you to install, we first recommend that you use the core crack to install the camera to avoid various problems.
+
 Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
+
+This version of the camera module installation script has been updated (the action of clearing the cache cache has been added to prevent various problems, and the Android version detection has been added)
 
 ### 更新日誌
 - 此版本取自 Xiaomi 12S Ultra 的徠卡相機版本，具有多種徠卡攝像功能與風格
@@ -68,10 +72,12 @@ Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.c
 - Added proactive 2X zoom
 
 This version basically completes all the functions of this project except for multi-camera recording and street shooting mode unavailable.
+
 Known issues:
 - Some models load slowly
 - Some models flash back after taking pictures
 - Master lens function is unstable
+
 Normal settings:
 - Cinematic Lighting function disappeared (replaced by Master Lens)
 - The front and rear double scenes appear and the camera cannot be connected (re-enter the camera to use)
