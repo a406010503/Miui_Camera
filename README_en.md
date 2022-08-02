@@ -1,6 +1,6 @@
 # [Magisk module] Miui camera function completion-Miui_Camera
 ## **【[繁體中文](https://github.com/a406010503/Miui_Camera/blob/main/README.md)｜English】**
-## Note 1: For details of Xiaomi 12S series Leica cameras (release preview), please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
+## Note 1: For details of Xiaomi 12S series Leica cameras , please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
 ## Note 2: As the internal testing of the S865 model has been stopped, the public version of the camera will not continue to be updated in the future (the Leica version of the camera will continue to be updated).
 
 ### Module introduction
