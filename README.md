@@ -1,7 +1,21 @@
-# [Magisk模組]Miui相機功能補全-Miui_Camera
-## **【繁體中文｜[English](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)】**
-## 注意1：Xiaomi 12S系列的徠卡相機具體請見【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
-## 注意2：隨著S865機型內測已停更，相機公版今後將不再繼續更新(徠卡版相機仍會繼續更新)。
+<div align="center">
+   <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
+   <h1>Miui相機功能補全-Miui_Camera</h1>
+   <p>
+       <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/README_en.md">English</a>  丨 繁體中文</b>
+   </p>
+   <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
+   <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
+   <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a>
+   <p>一個基於 MIUI13（Android12）適配的 Magisk 相機模組</p>
+</div>
+
+---
+
+<b>注意1：Xiaomi 12S系列的徠卡相機具體請見【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】<p>
+**注意2：隨著S865機型內測已停更，相機公版今後將不再繼續更新(徠卡版相機仍會繼續更新)。</b></p>**
+
+---
 ### 模組介紹
 ★ 額外補全以下相機功能(※)
 - 萌拍3.0
@@ -20,6 +34,8 @@
 - 全機型加入MI12&CIVI系列的前攝補光介面
 - 全機型開啟CIVI的人像模式新美顏
 
+---
+
 ### 注意事項【以下說明較為冗長還請在使用前務必仔細閱讀】
 - 部分功能僅在v4.3.003591.0(220326-220501)的版本生效
 - 基於測試版構建的Preview版本只會有基礎的功能，沒有全開功能(例如新版機型水印/KinoUI)
@@ -33,6 +49,8 @@
 - 錄影HDR/超級防抖功能部分機型由於硬體確實不支援故已在不支援的機型當中刪除，強加功能雖有開關但開啟可能會帶來嚴重發熱與耗電問題
 - 由於未在各機型做過測試，若有功能出現問題(尤其是機型浮水印)還請不吝嗇回報，感謝您~
 
+---
+
 ### 使用說明
 - Magisk直接刷入即可使用
 - 僅支援MIUI12.5開發版以上版本的機型使用
@@ -40,5 +58,24 @@
 - 第三方移植的MIUI ROM無法使用(移植到停更或其它品牌的手機)
 - xiaomi.eu ROM可以使用，其餘官改自測
 
+---
+
+### 模組截圖
+![截圖](https://i.imgur.com/yx2fdcg.png)  
+
+---
+
+### 下載位址
+
+Miui-Camera相機下載：[點擊此處下載最新發行版](https://github.com/a406010503/Miui_Camera/releases)  
+
+---
+
+### 回報BUG
+
+  <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
+
+---
+
 ### 致謝
-- 感謝酷安 @小陳同學 技術提供
+- 感謝酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.weihestudio.club/micamera_44071202.html) 技術提供
