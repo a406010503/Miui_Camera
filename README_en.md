@@ -1,8 +1,21 @@
-# [Magisk module] Miui camera function completion-Miui_Camera
-## **【[繁體中文](https://github.com/a406010503/Miui_Camera/blob/main/README.md)｜English】**
-## Note 1: For details of Xiaomi 12S series Leica cameras , please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
-## Note 2: As the internal testing of the S865 model has been stopped, the public version of the camera will not continue to be updated in the future (the Leica version of the camera will continue to be updated).
+<div align="center">
+   <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
+   <h1>Miui camera function completion-Miui_Camera</h1>
+   <p>
+       <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/README.md">繁體中文</a>  丨 English</b>
+   </p>
+   <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
+   <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
+   <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a>
+   <p>一個基於 MIUI13（Android12）適配的 Magisk 相機模組</p>
+</div>
 
+---
+
+<b>Note 1: For details of Xiaomi 12S series Leica cameras , please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]<p>
+**Note 2: As the internal testing of the S865 model has been stopped, the public version of the camera will not continue to be updated in the future (the Leica version of the camera will continue to be updated).</b></p>**
+
+---
 ### Module introduction
 ★ Added the following camera functions (※)
 - Mengpai 3.0
@@ -21,6 +34,8 @@
 - All models add MI12&CIVI series active fill light interface
 - Enabled CIVI's new portrait mode aesthetic for all phone models
 
+---
+
 ### Notes [The following instructions are long, please read carefully before use]
 - Some functions only take effect in v4.3.003591.0 (220326-220501) version
 - Preview builds built on Beta will only have basic functionality, not full functionality (like new model watermarks/KinoUI)
@@ -34,6 +49,8 @@
 - Some models with Video HDR/Super Image Stabilization have been removed from unsupported models due to unsupported hardware. It can cause serious thermal and power consumption issues when the forcing function is turned on and off.
 - Since I haven't tested it on every model, if there is a problem with the function (especially the model watermark), please don't hesitate to report it, thank you~
 
+---
+
 ### Instructions for use
 - After flashing the module through magisk, restart the phone to use
 - Only supports MIUI12.5 development version and above models
@@ -41,5 +58,24 @@
 - MIUI ROMs ported by third parties cannot be used (ported to mobile phones or other brands of mobile phones)
 - You can use the xiaomi.eu ROM, the rest are subject to the official self-test of the adapted ROM
 
-### thanks
-- Thanks to coolapk @小陳同學 for providing the technology
+---
+
+### 模組截圖
+![截圖](https://i.imgur.com/yx2fdcg.png)  
+
+---
+
+### 下載位址
+
+Miui-Camera相機下載：[點擊此處下載最新發行版](https://github.com/a406010503/Miui_Camera/releases)  
+
+---
+
+### 回報BUG
+
+  <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
+
+---
+
+### 致謝
+- 感謝酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.weihestudio.club/micamera_44071202.html) 技術提供
