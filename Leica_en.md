@@ -1,3 +1,20 @@
+<div align="center">
+   <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
+   <h1>Miui camera function completion-Miui_Camera</h1>
+   <p>
+       <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/Leica.md">繁體中文</a>  丨 English</b>
+   </p>
+   <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
+   <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
+   <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a>
+   <p>A Magisk camera module based on MIUI13 (Android12) adaptation</p>
+</div>
+
+---
+
+## Developer
+[聖小熊 (a406010503)](https://github.com/a406010503)
+
 ## Notes on Leica cameras
 Applicable versions: 4660, 4700, 4750, 4780, 4790, 4870
 
