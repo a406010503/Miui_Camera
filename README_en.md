@@ -7,7 +7,7 @@
    <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
    <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
    <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a>
-   <p>一個基於 MIUI13（Android12）適配的 Magisk 相機模組</p>
+   <p>A Magisk camera module based on MIUI13 (Android12) adaptation</p>
 </div>
 
 ---
@@ -60,22 +60,22 @@
 
 ---
 
-### 模組截圖
-![截圖](https://i.imgur.com/yx2fdcg.png)  
+### Module screenshot
+![Screenshot](https://i.imgur.com/yx2fdcg.png)
 
 ---
 
-### 下載位址
+### Download URL
 
-Miui-Camera相機下載：[點擊此處下載最新發行版](https://github.com/a406010503/Miui_Camera/releases)  
-
----
-
-### 回報BUG
-
-  <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
+Miui-Camera Camera Download: [Click here to download the latest release](https://github.com/a406010503/Miui_Camera/releases)
 
 ---
 
-### 致謝
-- 感謝酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.weihestudio.club/micamera_44071202.html) 技術提供
+### Report BUG
+
+  <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"> </a>
+
+---
+
+### Thanks
+- Thanks to Cool An [@小陳同學](http://www.coolapk.com/u/1388927), [Vegeca Mobi Team](http://sevtinge.weihestudio.club/micamera_44071202.html) Technology provided
