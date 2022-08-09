@@ -17,47 +17,39 @@
 **Note 2: As the internal testing of the S865 model has been stopped, the public version of the camera will not continue to be updated in the future (the Leica version of the camera will continue to be updated).</b></p>**
 
 ---
-### Module introduction
-★ Added the following camera functions (※)
-- Mengpai 3.0
-- Super Moon
-- Cine Shots
-- Multicam recording
-- Gestures to take pictures
-- Magic clone
-- Long exposure photography
-- Document Mode 2.0
-- Professional mode photo style
-- Front camera 2x zoom
-- Silent Street Shooting (Burst + Video)
-- Some models are modified to the new version of the camera watermark (※)
-- Some models are modified to Kino camera interface UI (※)
-- All models add MI12&CIVI series active fill light interface
-- Enabled CIVI's new portrait mode aesthetic for all phone models
+
+## Precautions [The following instructions are long, please read them carefully before use]
+- Some functions only take effect in versions v4.3.003591.0 (220326-220501) and v4.3004561.0 (220809). The specific functions will be explained in the update log of this version
+- Some versions only have basic functions. Usually, "this version does not have full function" will be added to this version (such as the new version of the model watermark/KinoUI)
+- Master lenses are only available on Leica cameras, this feature is extremely unstable, so no feedback on this feature is accepted
+- Some models with video HDR/Super Anti-Shake function have been deleted from the unsupported models due to the fact that the hardware does not support it. Although the imposed function is on and off, it may cause serious heat and power consumption problems.
+- The feature of silent street shooting and street shooting video mode can only be used in the EU modified version (the street shooting function has been removed from the Leica version because it is unavailable)
+- Some functions on the setting page may only be switches, please test by yourself, and do not accept feedback on such problems
+- Since I haven't tested it on various models, please don't hesitate to report if there is a problem with the function, thank you~
 
 ---
 
-### Notes [The following instructions are long, please read carefully before use]
-- Some functions only take effect in v4.3.003591.0 (220326-220501) version
-- Preview builds built on Beta will only have basic functionality, not full functionality (like new model watermarks/KinoUI)
-- Models with new watermark and Kino camera interface UI: ** Mi 10/ Mi 10 Pro/ Mi 10 Ultra/ Mi 10S/ Mi 11/ Mi 11 Pro/ Mi 11 Ultra/ Redmi K30 5G/ Redmi K30/ Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
+### Model watermark and Kino interface compatible model and description
+- The new version of the model will have a watermark as long as it is installed with a Leica camera. If the watermark of the model is wrong, please tell me!
+- The Big Devil Kino interface does not work with Leica cameras
+- Models for public cameras (v4.3.003591.0 and earlier) that use the new watermark and Kino camera interface UI: **MI 10/Mi 10 Pro/Mi 10 Ultra/Mi 10S/MI 11/Mi 11 Pro/Mi 11 Ultra/Redmi K30 5G/Redmi K30/Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
 (umi/cmi/cas/thyme/venus/mars/star/picasso/phoenix/lmi/alioth/haydn)
-- v4.3.003591.0 (220329/220421) Other models: **Poco X3/Poco X3 Pro/Mi CC9 Pro/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11/Xiaomi 11 Lite 5G NE**
-(karna/bhima/pyxis/renoir/monet/odin/vili/mojito/spes/lisa)
-- v4.3.003591.0 (220501) Other models: **Xiaomi 10T/Xiaomi 10T Pro/Redmi K30S** (Apollo/Apollo_Pro)
-- The other models listed above should not be added in future releases unless on a whim or with major revisions
-- The newly launched Mi 12 series / Redmi K50 series and other models have officially applied the new watermark by default. 3591 (220501) version, added KinoUI interface (cupid/zeus/psyche/ingres) for Xiaomi Mi 12 series and Redmi K50G. )
-- Some models with Video HDR/Super Image Stabilization have been removed from unsupported models due to unsupported hardware. It can cause serious thermal and power consumption issues when the forcing function is turned on and off.
-- Since I haven't tested it on every model, if there is a problem with the function (especially the model watermark), please don't hesitate to report it, thank you~
+- Public version camera v4.3.003591.0 (220329/220421) additional models: **Poco X3/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11 /Mi 11 Lite 5G NE**
+(karna/renoir/monet/odin/vili/mojito/spes/lisa)
+- Public version camera v4.3.003591.0 (220501) additional models: **Mi 10T/Mi 10T Pro/Redmi K30S** (Apollo/Apollo_Pro)
+- The additional models listed above should not be added in later versions unless they have a whim or major revisions. Currently, only the 3591 version is made. After that, only the Leica camera will be maintained, and the public version of the camera will not be renewed.
+- Recently newly launched models such as Xiaomi 12 series/Redmi K50 series have officially applied the new watermark by default. In version 3591 (220501), KinoUI interface (cupid/zeus/psyche/ingres) has been added for Xiaomi 12 series and Redmi K50G. )
 
 ---
 
 ### Instructions for use
-- After flashing the module through magisk, restart the phone to use
+- Magisk can be used directly by swiping (if there is a problem with the camera, please try to clear the cache, it will not be Google)
 - Only supports MIUI12.5 development version and above models
-- The stable version after MIUI13 v4.3.003591.0 can be used normally, the previous version will definitely crash
+- The stable version of MIUI13 after v4.3.003591.0 can be used normally, and the camera before this version will definitely crash
+- The Leica Camera Project only supports MIUI13 stable version and development version
+- Usually the models listed before July can be used, and more new models will be adapted in the future, so stay tuned
 - MIUI ROMs ported by third parties cannot be used (ported to mobile phones or other brands of mobile phones)
-- You can use the xiaomi.eu ROM, the rest are subject to the official self-test of the adapted ROM
+- This project has been tested and can be used in Xiaomi.EU ROM, please test the rest of the official changes by yourself
 
 ---
 
