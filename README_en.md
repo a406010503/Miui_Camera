@@ -20,7 +20,7 @@
 
 ### Module introduction
 ★ The following camera functions are additionally completed (※)
-- Moe Pai 3.0
+- Mimoji 3.0
 - Super Moon
 - movie footage
 - Gestures to take pictures
