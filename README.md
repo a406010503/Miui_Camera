@@ -1,5 +1,6 @@
 <div align="center">
    <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
+   <img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
    <h1>Miui相機功能補全-Miui_Camera</h1>
    <p>
        <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/README_en.md">English</a>  丨 繁體中文</b>
