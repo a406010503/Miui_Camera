@@ -22,7 +22,7 @@
 Applicable versions: 4660, 4700, 4750, 4780, 4790, 4870
 
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
-Installing this item may result in "Cammy" or "Camera Lost"
+Installing this item may result in "Kami" or "Camera Lost"
 If you don't know what Kami is and don't know how to save bricks, we strongly advise you not to use this mod!
 
 By installing this module, you will be able to enjoy the exclusive Leica features of the Mi 12S series
