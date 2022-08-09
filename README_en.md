@@ -1,5 +1,6 @@
 <div align="center">
    <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
+   <img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
    <h1>Miui camera function completion-Miui_Camera</h1>
    <p>
        <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/README.md">繁體中文</a>  丨 English</b>
