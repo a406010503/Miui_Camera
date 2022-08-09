@@ -18,6 +18,45 @@
 
 ---
 
+### Module introduction
+★ The following camera functions are additionally completed (※)
+- Moe Pai 3.0
+- Super Moon
+- movie footage
+- Gestures to take pictures
+- Magic clone
+- long exposure
+- Document Mode 2.0
+- Professional mode photo style
+- 2X zoom for front camera
+- Multi-camera recording (public version only)
+- Silent Street Shooting (Continuous Shooting + Video) (※)
+- Great Demon King Kino camera interface UI (※)
+- New camera watermark (※)
+- Leica custom frame (Leica version only)
+- Leica Vivid/Classic mode (Leica version only)
+- Leica filter (Leica version only)
+- 10/10S/10T/10TPro 480Fps slow motion
+- 11T/K40/K50 4K 60Fps (Leica version only)
+- Master Lens (Leica version only)(※)
+- Proactive fill light interface
+- Portrait mode proactive beauty
+- Movie mode
+- Audio zoom
+- Focus on everything
+- Motion capture
+- remove moles
+- close-up mode
+- Full body mode
+- Male makeup adaptation
+- Human eye tracking
+- Tips for photo imperfections
+- Lens dirty reminder
+- Night scene mode increased by 5X and 10X
+- 10X increase in high resolution shooting
+
+---
+
 ## Precautions [The following instructions are long, please read them carefully before use]
 - Some functions only take effect in versions v4.3.003591.0 (220326-220501) and v4.3004561.0 (220809). The specific functions will be explained in the update log of this version
 - Some versions only have basic functions. Usually, "this version does not have full function" will be added to this version (such as the new version of the model watermark/KinoUI)
