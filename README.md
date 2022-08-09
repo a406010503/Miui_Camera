@@ -67,7 +67,7 @@
 
 ---
 
-### 機型浮水印適配機型與說明
+### 機型浮水印與Kino介面適配機型與說明
 - 新版機型浮水印只要是裝上徠卡相機就一定都會有，如果機型水印有錯你再跟我說!
 - 大魔王Kino介面不適用徠卡相機
 - 公版相機(v4.3.003591.0及之前的版本)套用新版浮水印與大魔王Kino相機介面UI的機型:**MI 10/Mi 10 Pro/Mi 10 Ultra/Mi 10S/MI 11/Mi 11 Pro/Mi 11 Ultra/Redmi K30 5G/Redmi K30/Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
