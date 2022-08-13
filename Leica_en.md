@@ -32,6 +32,7 @@ In addition, Leica's exclusive custom watermark can be activated!
 As for whether the image quality of the photo has been improved, we will wait for you to experience it. The Leica algorithm is definitely there! <p>
 
 Since this project is not officially allowed by Xiaomi, and the official still tries its best to prevent the installation and distribution of models other than the 12S series<p>
+I am not responsible for any equipment failures caused by the use of this camera project! (It is risky to engage in the machine, and you must be cautious when brushing the machine)<p>
 **This item is for academic use only, please remove it within 24 hours after use. **</p>
 
 ---
