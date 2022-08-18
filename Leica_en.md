@@ -41,16 +41,22 @@ I am not responsible for any equipment failures caused by the use of this camera
 As explained above, because Xiaomi is still trying to prevent the installation of Leica cameras, it is recommended that you install the camera in the core cracking method first. <p>
 You can unzip the camera APK in the package (located in system/app/MiuiCamera.apk) to directly crack the core installation<p>
 For example, the module Woobox software of Xposed has the function of core cracking. It is installed using the "five functions fully open" of the core cracking. If you don't know what it means, it is not recommended for you to use it! <p>
-※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the core crack installation! </p>
+At present, we also provide TWRP version for users who have failed to install it. It is not recommended to flash in without Root (because there may still be a core crack), if you try to flash in and out of the problem, we will not be responsible for it! <p>
+※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the core crack installation! (This issue has been excluded in the latest version)</p>
 
 ---
 
 ## About the Leica Camera Completion Project
-Applicable versions: 4700, 4790 (unpublished), 4870
+Applicable versions: 4700, 4790 (unpublished), 4870, 0080 (unpublished)
 
 At present, we have tried to complete the functions mentioned in the project for Leica cameras.
-However, based on the particularity of the camera, it cannot perfectly complement all functions.
-For the time being, there are only a few versions available for you to experience some functions that are "officially stated that the hardware does not support" on your model.
+You can experience some functions that are "officially indicated by hardware not supported" on your model to be turned on.
 The specific open function will be notified on the download page of the release!
 
-Some unpublished versions are not available for download due to the wisdom of others (the author is not the only one)! (Only available to a small number of loyal users, if necessary, you can add LINE official account @doh0596a)
+Since the 12S series does not have a street shooting function, and this function does not work properly, this option has been removed. <p>
+Some unpublished versions are not available for download because they have the wisdom of others (the author is not the only one)! (Only available to a small number of loyal users, if necessary, you can add LINE official account @doh0596a)</p>
+
+---
+
+## Why is the camera's underlying version no longer updated?
+Since Xiaomi started to strengthen the model verification in version 4.5.000320.0, and it is meaningless to update the underlying version of the camera, we currently have the function of switching the latitude, longitude and time of the watermark in version 0320. If there is a similar switching function in the future I will try my best to do a transplant.
