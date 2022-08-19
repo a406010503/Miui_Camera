@@ -19,8 +19,9 @@
 ---
 
 ## Notes on Leica cameras
-Applicable versions: 4660, 4700, 4750, 4780, 4790, 4870
+Applicable versions: 4660, 4700, 4750, 4780, 4790, 4870, 0080
 
+First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
 Installing this item may result in "Kami" or "Camera Lost"
 If you don't know what Kami is and don't know how to save bricks, we strongly advise you not to use this mod!
@@ -60,3 +61,10 @@ Some unpublished versions are not available for download because they have the w
 
 ## Why is the camera's underlying version no longer updated?
 Since Xiaomi started to strengthen the model verification in version 4.5.000320.0, and it is meaningless to update the underlying version of the camera, we currently have the function of switching the latitude, longitude and time of the watermark in version 0320. If there is a similar switching function in the future I will try my best to do a transplant.
+
+---
+
+## Is there any special difference between a Leica camera and a reference camera?
+
+The biggest difference is that the Leica camera has built-in exclusive filter effects (Leica Vivid/Leica Classic), it is recommended to turn off your HDR function, the Leica taste will be more obvious!
+The later version added the color grading developed by the color grading team of the Caika research group. The effect of the Leica camera will definitely be better than the public version camera.
