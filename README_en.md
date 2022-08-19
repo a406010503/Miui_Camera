@@ -29,31 +29,37 @@
 - Document Mode 2.0
 - Professional mode photo style
 - 2X zoom for front camera
-- Multi-camera recording (public version only)
+- Multi-camera recording (public version only/Leica version from 220818 support)
 - Silent Street Shooting (Continuous Shooting + Video) (※)
 - Great Demon King Kino camera interface UI (※)
-- New camera watermark (※)
+- New version of camera watermark (※)
 - Leica custom frame (Leica version only)
 - Leica Vivid/Classic mode (Leica version only)
 - Leica filter (Leica version only)
-- 10/10S/10T/10TPro 480Fps slow motion
+- 10/10S 480Fps slow motion
 - 11T/K40/K50 4K 60Fps (Leica version only)
-- Master Lens (Leica version only)(※)
+- Master Lens (Leica version only/Removed due to instability)(※)
 - Proactive fill light interface
 - Portrait mode proactive beauty
 - Movie mode
 - Audio zoom
-- Focus on everything
-- Motion capture
-- remove moles
+- All things focus (removed because it doesn't work)
+- Motion Capture (Leica version only)
+- Mole removal (Leica version only)
 - close-up mode
 - Full body mode
 - Male makeup adaptation
-- Human eye tracking
+- Human eye tracking (Leica version only)
+- Auto Night Scene (Leica version only)
+- Auto Frame Rate (Leica version only)
+- Video HDR/AI mode (Leica version only)
+- Video portrait filter (Leica version only)
+- Sound settings (Leica version only)
 - Tips for photo imperfections
 - Lens dirty reminder
-- Night scene mode increased by 5X and 10X
-- 10X increase in high resolution shooting
+- Added 5X and 10X to night scene mode (Leica version only)
+- 10X increase in high resolution shooting (Leica version only)
+- More sliding zoom magnifications
 
 ---
 
