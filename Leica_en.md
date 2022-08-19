@@ -64,7 +64,7 @@ Since Xiaomi started to strengthen the model verification in version 4.5.000320.
 
 ---
 
-## Is there any special difference between a Leica camera and a reference camera?
+## Is there any special difference between a Leica camera and a public camera that comes with the system?
 
 The biggest difference is that the Leica camera has built-in exclusive filter effects (Leica Vivid/Leica Classic), it is recommended to turn off your HDR function, the Leica taste will be more obvious!
 The later version added the color grading developed by the color grading team of the Caika research group. The effect of the Leica camera will definitely be better than the public version camera.
