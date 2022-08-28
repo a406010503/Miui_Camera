@@ -119,5 +119,6 @@ Miui-Camera相機下載：[點擊此處下載最新發行版](https://github.com
 
 ---
 
-### 徠卡相機授權證書
-- 基於[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.weihestudio.club/micamera_44071202.html)的相機修改授權，證書編號：2720-1972-8799-1540
+### 徠卡相機授權許可證書
+- 本專案的徠卡相機基於[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.weihestudio.club/micamera_44071202.html)的相機修改，
+該APK Mod原作者：@Sevtinge，已獲得授權，未經許可嚴禁轉載、修改、二次創作等。許可證書號：2720-1972-8799-1540
