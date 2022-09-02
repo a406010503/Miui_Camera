@@ -14,16 +14,17 @@
 ---
 
 ## Developer
-[Holy Bear (a406010503)](https://github.com/a406010503)
+[Holy Bear (a406010503)](https://github.com/a406010503)<p>
+[XXXF (Hs0)](https://github.com/Hs0)</p>
 
 ---
 
 ## Notes on Leica cameras
-Applicable versions: 4660, 4700, 4750, 4780, 4790, 4870, 0080
+Applicable versions: 4660, 4700, 4750, 4780, 4870, 0511
 
-First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
+First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
-Installing this item may result in "Kami" or "Camera Lost"
+Installing this item may result in "Cammy" or "Camera Lost"
 If you don't know what Kami is and don't know how to save bricks, we strongly advise you not to use this mod!
 
 By installing this module, you will be able to enjoy the exclusive Leica features of the Mi 12S series
@@ -32,8 +33,8 @@ And in the filter options you will be able to use four additional Leica effects 
 In addition, Leica's exclusive custom watermark can be activated!
 As for whether the image quality of the photo has been improved, we will wait for you to experience it. The Leica algorithm is definitely there! <p>
 
-Since this project is not officially allowed by Xiaomi, and the official still tries its best to prevent the installation and distribution of models other than the 12S series<p>
-I am not responsible for any equipment failures caused by the use of this camera project! (It is risky to engage in the machine, and you must be cautious when brushing the machine)<p>
+Since this project is not officially allowed by Xiaomi, and the official is still trying to prevent the installation and distribution of models other than the 12S series<p>
+I am not responsible for any equipment failures caused by the use of this camera project! (It is risky to play the machine, and you must be careful when you flash the machine) <p>
 **This item is for academic use only, please remove it within 24 hours after use. **</p>
 
 ---
@@ -43,28 +44,39 @@ As explained above, because Xiaomi is still trying to prevent the installation o
 You can unzip the camera APK in the package (located in system/app/MiuiCamera.apk) to directly crack the core installation<p>
 For example, the module Woobox software of Xposed has the function of core cracking. It is installed using the "five functions fully open" of the core cracking. If you don't know what it means, it is not recommended for you to use it! <p>
 At present, we also provide TWRP version for users who have failed to install it. It is not recommended to flash in without Root (because there may still be a core crack), if you try to flash in and out of the problem, we will not be responsible for it! <p>
-※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the core crack installation! (This issue has been excluded in the latest version)</p>
+※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the core crack installation! </p>
+<p>
+9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera are merged into the same version, and this problem should not exist.
 
 ---
 
 ## About the Leica Camera Completion Project
-Applicable versions: 4700, 4790 (unpublished), 4870, 0080 (unpublished)
+Applicable version: 4700, 4870
 
 At present, we have tried to complete the functions mentioned in the project for Leica cameras.
-You can experience some functions that are "officially indicated by hardware not supported" on your model to be turned on.
+It allows you to experience some functions that are "officially stated that the hardware does not support" on your model to be turned on.
 The specific open function will be notified on the download page of the release!
 
-Since the 12S series does not have a street shooting function, and this function does not work properly, this option has been removed. <p>
-Some unpublished versions are not available for download because they have the wisdom of others (the author is not the only one)! (Only available to a small number of loyal users, if necessary, you can add LINE official account @doh0596a)</p>
+Since the 12S series does not have a street shooting function, and this function does not work properly, this option has been removed for Leica cameras before the 4870. <p>
 
 ---
 
 ## Why is the camera's underlying version no longer updated?
-Since Xiaomi started to strengthen the model verification in version 4.5.000320.0, and it is meaningless to update the underlying version of the camera, we currently have the function of switching the latitude, longitude and time of the watermark in version 0320. If there is a similar switching function in the future I will try my best to do a transplant.
+Since Xiaomi started to strengthen the model verification in version 4.5.000320.0, and it is meaningless to update the underlying version of the camera, we currently have the function of switching the watermark latitude, longitude and time in version 0320. If there is a similar switching function in the future I will try my best to do a transplant. <p>
+9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version, and the problem of model verification does not exist. If there are more new functions in the future, we will try our best to adapt to the new version.
 
 ---
 
-## Is there any special difference between a Leica camera and a public camera that comes with the system?
+## Is there any special difference between a Leica camera and a reference camera?
 
 The biggest difference is that the Leica camera has built-in exclusive filter effects (Leica Vivid/Leica Classic), it is recommended to turn off your HDR function, the Leica taste will be more obvious!
-The later version added the color grading developed by the color grading team of the Caika research group. The effect of the Leica camera will definitely be better than the public version camera.
+The later version added the color grading developed by the color grading team of the Caika research group. The effect of the Leica camera will definitely be better than the public version camera. <p>
+9/2 Update: Since version 4.5.000511.0, Leica features and public cameras have been merged into the same version, and new versions will force Leica features to be enabled for all models in the future.
+
+---
+
+### Leica Camera License
+- The v4.3.004870.0 version of the Leica camera of this project is based on the camera modification of [Vegeca Mobi Team](http://sevtinge.weihestudio.club/micamera_44071202.html)
+- The original author of this version APK Mod: [@Sevtinge](https://github.com/Sevtinge), has been authorized, and has been approved by [Holy Bear(a406010503)](https://github.com/a406010503) twice Modification, reproduction, modification, secondary creation, etc. are strictly prohibited without permission.
+- Certificate number: 2720-1972-8799-1540
+- This license is only applicable to v4.3.004870.0 version
