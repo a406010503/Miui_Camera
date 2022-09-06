@@ -54,6 +54,7 @@
 - More sliding zoom magnifications
 - Add Google Smart Lens to Xiaomi.EU system
 - Professional mode video and audio infographics
+- New VLOG Mode
 
 Since version 0700, the following functions are no longer enabled on all models due to ineffectiveness or impracticality:
 
