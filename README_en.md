@@ -28,62 +28,73 @@
 - long exposure
 - Document Mode 2.0
 - Professional mode photo style
-- 2X zoom for front camera
-- Multi-camera recording (public version only/Leica version from 220818 support)
+- Multi-camera continuous recording (only for public version/Leica version from 220905)
 - Silent Street Shooting (Continuous Shooting + Video) (※)
-- Great Demon King Kino camera interface UI (※)
+- More modes of the Great Demon King Kino camera interface UI (※)
 - New version of camera watermark (※)
 - Leica custom frame (Leica version only)
 - Leica Vivid/Classic mode (Leica version only)
 - Leica filter (Leica version only)
 - 10/10S 480Fps slow motion
 - 11T/K40/K50 4K 60Fps (Leica version only)
-- Master Lens (Leica version only/Removed due to instability)(※)
 - Proactive fill light interface
 - Portrait mode proactive beauty
 - Movie mode
-- Audio zoom
-- All things focus (removed because it doesn't work)
-- Motion Capture (Leica version only)
-- Mole removal (Leica version only)
+- Audio zoom (Leica version only)
+- 3D Stereo (Leica version only)
+- Wind noise reduction (Leica version only)
+- Headphone radio (Leica version only)
+- Lens animation (Leica version only)
 - close-up mode
-- Full body mode
-- Male makeup adaptation
-- Human eye tracking (Leica version only)
-- Auto Night Scene (Leica version only)
-- Auto Frame Rate (Leica version only)
-- Video HDR/AI mode (Leica version only)
 - Video portrait filter (Leica version only)
-- Sound settings (Leica version only)
 - Tips for photo imperfections
 - Lens dirty reminder
 - Added 5X and 10X to night scene mode (Leica version only)
 - 10X increase in high resolution shooting (Leica version only)
 - More sliding zoom magnifications
+- Add Google Smart Lens to Xiaomi.EU system
+- Professional mode video and audio infographics
+
+Since version 0700, the following functions are no longer enabled on all models due to ineffectiveness or impracticality:
+
+- Full body mode
+- Male makeup adaptation
+- Selfie Makeup 1, 2
+- Human eye tracking
+- Take pictures to speed up
+- Sound settings
+- Portrait flash
+- Image quality enhancement
+- Focus on everything
+- Motion capture
+- remove moles
+- Master Shots
+- Video HDR/AI mode
+- 2X zoom for front camera
 
 ---
 
-## Precautions [The following instructions are long, please read them carefully before use]
+### Precautions [The following instructions are long, please read them carefully before use]
 - Some functions only take effect in versions v4.3.003591.0 (220326-220501) and v4.3004561.0 (220809). The specific functions will be explained in the update log of this version
 - Some versions only have basic functions. Usually, "this version does not have full function" will be added to this version (such as the new version of the model watermark/KinoUI)
 - Master lenses are only available on Leica cameras, this feature is extremely unstable, so no feedback on this feature is accepted
-- Some models with video HDR/Super Anti-Shake function have been deleted from the unsupported models due to the fact that the hardware does not support it. Although the imposed function is on and off, it may cause serious heat and power consumption problems.
+- Some models with video HDR/Super Anti-Shake function have been deleted from the unsupported models due to the fact that the hardware does not support it. Although the imposed function is switched on, it may cause serious heat and power consumption problems.
 - The feature of silent street shooting and street shooting video mode can only be used in the EU modified version (the street shooting function has been removed from the Leica version because it is unavailable)
 - Some functions on the setting page may only be switches, please test by yourself, and do not accept feedback on such problems
-- Since I haven't tested it on various models, please don't hesitate to report if there is a problem with the function, thank you~
+- Since I haven't tested it on various models, please do not hesitate to report back if there is a problem with the function, thank you~
 
 ---
 
 ### Model watermark and Kino interface compatible model and description
-- The new version of the model will have a watermark as long as it is installed with a Leica camera. If the watermark of the model is wrong, please tell me!
-- The Big Devil Kino interface does not work with Leica cameras
+- The new version of the model watermark is currently only suitable for some models (Xiaomi 10, 10T series)
+- Big Demon Kino interface does not work with Leica cameras (supported since version 220818)
 - Models for public cameras (v4.3.003591.0 and earlier) that use the new watermark and Kino camera interface UI: **MI 10/Mi 10 Pro/Mi 10 Ultra/Mi 10S/MI 11/Mi 11 Pro/Mi 11 Ultra/Redmi K30 5G/Redmi K30/Redmi K30 Pro/Redmi K40/Redmi K40 Pro**
 (umi/cmi/cas/thyme/venus/mars/star/picasso/phoenix/lmi/alioth/haydn)
 - Public version camera v4.3.003591.0 (220329/220421) additional models: **Poco X3/Mi 11 Lite 5G/Mi 10 Lite 5G/Mi Mix 4/Mi 11T Pro/Redmi Note 10/Redmi Note 11 /Mi 11 Lite 5G NE**
 (karna/renoir/monet/odin/vili/mojito/spes/lisa)
 - Public version camera v4.3.003591.0 (220501) additional models: **Mi 10T/Mi 10T Pro/Redmi K30S** (Apollo/Apollo_Pro)
-- The additional models listed above should not be added in later versions unless they have a whim or major revisions. Currently, only the 3591 version is made. After that, only the Leica camera will be maintained, and the public version of the camera will not be renewed.
-- Recently newly launched models such as Xiaomi 12 series/Redmi K50 series have officially applied the new watermark by default. In version 3591 (220501), KinoUI interface (cupid/zeus/psyche/ingres) has been added for Xiaomi 12 series and Redmi K50G. )
+- Unless there is a whim or a major revision, the additional models listed above should not be added in later versions. Currently, only the 3591 version is made. After that, only the Leica camera will be maintained, and the public version of the camera will not be renewed.
+- Xiaomi 12 series/Redmi K50 series and other recently launched models have been officially pre-applied with the new version of the watermark. In version 3591 (220501), KinoUI interface (cupid/zeus/psyche/ingres) has been added for Xiaomi 12 series and Redmi K50G. )
 
 ---
 
