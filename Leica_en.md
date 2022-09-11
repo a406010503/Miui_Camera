@@ -53,8 +53,6 @@ At present, we also provide TWRP version for users who have failed to install it
 ---
 
 ## About the Leica Camera Completion Project
-Applicable version: 4700, 4870
-
 At present, we have tried to complete the functions mentioned in the project for Leica cameras.
 It allows you to experience some functions that are "officially stated that the hardware does not support" on your model to be turned on.
 The specific open function will be notified on the download page of the release!
