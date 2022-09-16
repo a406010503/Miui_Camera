@@ -16,8 +16,10 @@
 ---
 
 ## 開發人員
-[聖小熊 (a406010503)](https://github.com/a406010503)<p>
-[XXXF (Hs0)](https://github.com/Hs0)</p>
+聖小熊 (@a406010503)<p>
+XXXF (@Hs0)<p>
+Luffitys (@Luffitys)<p>
+Majestic (@kazhemons)</p>
 
 ---
 
