@@ -16,7 +16,7 @@
 ---
 
 ## 開發人員
-聖小熊 (@a406010503)<p>
+聖小熊 ( @a406010503 )<p>
 XXXF (@Hs0)<p>
 Luffitys (@Luffitys)<p>
 Majestic (@kazhemons)</p>
