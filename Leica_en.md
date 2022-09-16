@@ -16,8 +16,11 @@
 ---
 
 ## Developer
-[Holy Bear (a406010503)](https://github.com/a406010503)<p>
-[XXXF (Hs0)](https://github.com/Hs0)</p>
+Main development: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
+Main development: [XXXF (@Hs0)](https://github.com/XXXF)<p>
+Development assistance: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
+Advanced settings available: [Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
+Advanced settings compilation: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
 ---
 
