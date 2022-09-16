@@ -16,11 +16,11 @@
 ---
 
 ## Developer
-Main development: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
-Main development: [XXXF (@Hs0)](https://github.com/XXXF)<p>
-Development assistance: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
-Advanced settings available: [Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
-Advanced settings compilation: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
+Main developer: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
+Main developer: [XXXF (@Hs0)](https://github.com/XXXF)<p>
+Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
+Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
+Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
 ---
 
