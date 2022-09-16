@@ -18,7 +18,7 @@
 ## 開發人員
 [聖小熊 (@a406010503)](https://github.com/a406010503)<p>
 [XXXF (@Hs0)](https://github.com/XXXF)<p>
-[Sevtinge (@Sevtinge)] (https://github.com/sevtinge)<p>
+[Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
 [Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
 [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
