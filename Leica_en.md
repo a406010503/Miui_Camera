@@ -1,7 +1,6 @@
 <div align="center">
-   <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
    <img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
-   <h1>Miui camera function completion-Miui_Camera</h1>
+   <h1>Miui Leica Camera Function Completion-Miui_Camera_Leica</h1>
    <p>
        <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/Leica.md">繁體中文</a>  丨 English</b>
    </p>
@@ -10,7 +9,7 @@
    <a href="https://github.com/a406010503/Miui_Camera/"><img alt="Stars" src="https://img.shields.io/github/stars/a406010503/Miui_Camera?label=stars"></a>
    <a href="https://github.com/a406010503/Miui_Camera/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/a406010503/Miui_Camera?label=release"></a>
    <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a>
-   <p>A Magisk camera module based on MIUI13 (Android12) adaptation</p>
+   <p>A Magisk Leica camera module based on MIUI13 (Android12) adaptation</p>
 </div>
 
 ---
@@ -46,12 +45,12 @@ I am not responsible for any equipment failures caused by the use of this camera
 
 ## About the problem of losing the Leica camera after flashing
 As explained above, because Xiaomi is still trying to prevent the installation of Leica cameras, it is recommended that you install the camera in the core cracking method first. <p>
-You can unzip the camera APK in the package (located in system/priv-app/MiuiCamera.apk) to directly crack the core installation<p>
+You can unzip the camera APK in the package (located in system/priv-app/MiuiCamera.apk) and install it directly by cracking the core <p>
 For example, the module Woobox software of Xposed has the function of core cracking. It is installed using the "five functions fully open" of the core cracking. If you don't know what it means, it is not recommended for you to use it! <p>
 At present, we also provide TWRP version for users who have failed to install it. It is not recommended to flash in without Root (because there may still be a core crack), if you try to flash in and out of the problem, we will not be responsible for it! <p>
 ※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the core crack installation! </p>
 <p>
-9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera are merged into the same version, and this problem should not exist.
+9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version, and this problem should no longer exist, but it is still recommended that you install the camera in the core cracking method.
 
 ---
 
@@ -60,13 +59,11 @@ At present, we have tried to complete the functions mentioned in the project for
 It allows you to experience some functions that are "officially stated that the hardware does not support" on your model to be turned on.
 The specific open function will be notified on the download page of the release!
 
-Since the 12S series does not have a street shooting function, and this function does not work properly, this option has been removed for Leica cameras before the 4870. <p>
-
 ---
 
 ## Why is the camera's underlying version no longer updated?
 Since Xiaomi started to strengthen the model verification in version 4.5.000320.0, and it is meaningless to update the underlying version of the camera, we currently have the function of switching the watermark latitude, longitude and time in version 0320. If there is a similar switching function in the future I will try my best to do a transplant. <p>
-9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version, and the problem of model verification does not exist. If there are more new functions in the future, we will try our best to adapt to the new version.
+9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version. If there are more new features in the future, we will try our best to adapt to the new version.
 
 ---
 
