@@ -1,7 +1,6 @@
 <div align="center">
-   <img width="160" src="https://i.imgur.com/wz2b85J.png" alt="logo">
    <img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
-   <h1>Miui相機功能補全-Miui_Camera</h1>
+   <h1>Miui徠卡相機功能補全-Miui_Camera_Leica</h1>
    <p>
        <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md">English</a>  丨 繁體中文</b>
    </p>
@@ -10,7 +9,7 @@
    <a href="https://github.com/a406010503/Miui_Camera/"><img alt="Stars" src="https://img.shields.io/github/stars/a406010503/Miui_Camera?label=stars"></a>
    <a href="https://github.com/a406010503/Miui_Camera/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/a406010503/Miui_Camera?label=release"></a>
    <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a>
-   <p>一個基於 MIUI13（Android12）適配的 Magisk 相機模組</p>
+   <p>一個基於 MIUI13（Android12）適配的 Magisk 徠卡相機模組</p>
 </div>
 
 ---
@@ -51,7 +50,7 @@
 目前我們另有提供TWRP版本給安裝不成功的機友使用，不建議沒有Root情況刷入（因可能仍需有核心破解），若嘗試刷入出問題概不負責！<p>
 ※備註：為了避免您安裝後重啟被恢復，請確保您的相機版本是低於對應的徠卡相機版本，建議您可先刷入3591穩定版後再嘗試核心破解安裝！</p>
 <p>
-9/2更新：自4.5.000511.0版本起，徠卡特性與公版相機合併為相同版本，這個問題應該也就不存在了。
+9/2更新：自4.5.000511.0版本起，徠卡特性與公版相機合併為相同版本，這個問題應該也就不存在了，但仍建議您優先以核心破解方式安裝相機。
 
 ---
 
@@ -60,20 +59,18 @@
 可供您體驗到在您的機型上「官方表示硬件不支持」的部分功能做開啟。
 具體開啟的功能會在發布的下載頁面上告知！
 
-由於12S系列均沒有街拍功能，該功能也無法正常作用，故該選項在4870之前的徠卡相機已經被移除。<p>
-
 ---
 
 ## 為什麼相機底層版本都沒有再繼續更新了？
 由於小米在4.5.000320.0版本開始加強了機型驗證，且一昧的更新相機底層版本沒有意義，目前我們有移植了在0320版本的水印經緯度與時間開關的功能，假如未來有類似的開關性功能會盡量的去做移植。<p>
-9/2更新：自4.5.000511.0版本起，徠卡特性與公版相機合併為相同版本，機型驗證問題就不存在了，日後若有更多新功能的話會盡力的去適配新版本。
+9/2更新：自4.5.000511.0版本起，徠卡特性與公版相機合併為相同版本，日後若有更多新功能的話會盡力的去適配新版本。
 
 ---
 
 ## 徠卡相機和公版相機有什麼特別區別嗎？
 
 最大的區別就是徠卡相機內建了專屬的濾鏡效果（徠卡生動/徠卡經典），建議關閉你的HDR功能，徠卡味道會更明顯！
-後期版本加入了菜卡研究組調色組自研的調色，徠卡相機拍攝出來的效果絕對會優於公版相機。<p>
+後期版本加入了菜卡研究組調色組自研的調色算法，本專案上的徠卡相機拍攝出來的效果絕對會優於官方相機調色算法。<p>
 9/2更新：自4.5.000511.0版本起，徠卡特性與公版相機合併為相同版本，日後新版本會對全機型強制開啟徠卡特性。
 
 ---
