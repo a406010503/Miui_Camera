@@ -16,7 +16,7 @@
 
 ## Developer
 Main developer: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
-Main developer: [XXXF (@Hs0)](https://github.com/XXXF)<p>
+Main developer: [XXXF (@Hs0)](https://github.com/Hs0)<p>
 Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
 Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
 Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
