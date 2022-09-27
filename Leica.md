@@ -16,7 +16,7 @@
 
 ## 開發人員
 主要開發：[聖小熊 (@a406010503)](https://github.com/a406010503)<p>
-主要開發：[XXXF (@Hs0)](https://github.com/XXXF)<p>
+主要開發：[XXXF (@Hs0)](https://github.com/Hs0)<p>
 協助開發：[Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
 進階設定提供：[Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
 進階設定編譯：[Majestic (@kazhemons)](https://github.com/kazhemons)</p>
