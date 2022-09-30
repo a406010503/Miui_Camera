@@ -12,4 +12,4 @@
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
-*Please refer to the Github project page for details of the updated content due to layout issues, or go to the Settings page → Modification Instructions → Download to view.
+*Please refer to the Github project page for details of the updated content due to layout issues, or go to the Settings page → Modification Instructions → Downloads to view.
