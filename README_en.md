@@ -38,8 +38,9 @@ Note 3: Please respect the wisdom of others, when reprinting the camera bag on t
 - Leica custom frame (Leica version only)
 - Leica Vivid/Classic mode (Leica version only)
 - Leica filter (Leica version only)
-- 10/10S 480Fps slow motion
-- 11T/K40/K50 4K 60Fps (Leica version only)
+- 10/10S/10T/10TP/K30SU 480Fps slow motion
+- 11T/K40/K50 rear camera 4K 60Fps (Leica version only)
+- Proactive 1080p 60Fps
 - Proactive fill light interface
 - Portrait mode proactive beauty
 - Movie mode
@@ -48,23 +49,23 @@ Note 3: Please respect the wisdom of others, when reprinting the camera bag on t
 - Wind noise reduction (Leica version only)
 - Headphone radio (Leica version only)
 - Lens animation (Leica version only)
-- close-up mode
 - Video portrait filter (Leica version only)
 - Tips for photo imperfections
 - Lens dirty reminder
-- Added 5X and 10X to night scene mode (Leica version only)
-- 10X increase in high resolution shooting (Leica version only)
 - More sliding zoom magnifications
 - Add Google Smart Lens to Xiaomi.EU system
 - Professional mode video and audio infographics
-- New VLOG Mode
+- New VLOG mode
+- Sweep in more modes
+- Automatic download
+- 2X zoom for front camera
+- Human eye tracking
 
 Since version 0700, the following functions are no longer enabled on all models due to ineffectiveness or impracticality:
 
 - Full body mode
 - Male makeup adaptation
 - Selfie Makeup 1, 2
-- Human eye tracking
 - Take pictures to speed up
 - Sound settings
 - Portrait flash
@@ -74,7 +75,7 @@ Since version 0700, the following functions are no longer enabled on all models 
 - remove moles
 - Master Shots
 - Video HDR/AI mode
-- 2X zoom for front camera
+- close-up mode
 
 ---
 
