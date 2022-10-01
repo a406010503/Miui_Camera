@@ -43,6 +43,16 @@ I am not responsible for any equipment failures caused by the use of this camera
 
 ---
 
+## What is the difference between the official version (Releases) and the trial version (Preview-Dev)?
+Mainly in the trial version, the following content has been added:
+- New advanced level settings
+- Enable High Efficiency Video Encoding HEVC 10 bit rate format (H.265 10bit)
+- Added lab option
+<p>
+Advanced Settings and H.265 10bit is an unofficial feature added by Russian authors @Luffitys and @kazhemons
+
+---
+
 ## About the problem of losing the Leica camera after flashing
 As explained above, because Xiaomi is still trying to prevent the installation of Leica cameras, it is recommended that you install the camera in the core cracking method first. <p>
 You can unzip the camera APK in the package (located in system/priv-app/MiuiCamera.apk) and install it directly by cracking the core <p>
