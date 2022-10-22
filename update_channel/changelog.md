@@ -7,9 +7,7 @@
 - Since the installation script only supports traditional Chinese, if you cannot understand the question, it is recommended that you take a screenshot and use Google Translate to upload the screenshot to try to answer the question
 
 ### 重點更新內容
-- 升級底層版本至 v4.5.000941.0 版本（共同開發Github@Hs0）
-- 替換為 Xiaomi CIVI 2 專屬 v4.5.000890.0 版本的成像庫
-- 修復 HDR 模式出現曝光過度問題
+- 升級底層版本至 v4.5.001110.0 版本（共同開發Github @Hs0）
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
