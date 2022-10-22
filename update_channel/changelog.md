@@ -7,7 +7,7 @@
 - Since the installation script only supports traditional Chinese, if you cannot understand the question, it is recommended that you take a screenshot and use Google Translate to upload the screenshot to try to answer the question
 
 ### 重點更新內容
-- 升級底層版本至 v4.5.001110.0 版本（共同開發Github @Hs0）
+- 升級底層版本至 v4.5.001110.0 版本（共同開發 Github [@Hs0](https://github.com/Hs0)）
 - 去除國際版標識，以啟用部分 CN 功能
 - 恢復 Global 標籤，不再限定 Xiaomi.eu 可使用 Google 智慧鏡頭
 - 模組刷入 Android API 版本限制提高至 33（Android 13），並優化安裝腳本
