@@ -10,6 +10,7 @@
 - 升級底層版本至 v4.5.001110.0 版本（共同開發Github @Hs0）
 - 去除國際版標識，以啟用部分 CN 功能
 - 恢復 Global 標籤，不再限定 Xiaomi.eu 可使用 Google 智慧鏡頭
+- 模組刷入 Android API 版本限制提高至 33（Android 13），並優化安裝腳本
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
