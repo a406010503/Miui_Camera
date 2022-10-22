@@ -14,6 +14,7 @@
 - 恢復 Global 標籤，不再限定 Xiaomi.eu 可使用 Google 智慧鏡頭
 - 修復部分機型慢動作和錄影時導致無法連接相機的問題
 - 由於部分機型不相容，移除了 HEVC 10bit 高效率影片編碼格式（恢復為 HEVC 8bit）
+- 模組刷入 Android API 版本限制提高至 33（Android 13），並優化安裝腳本
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
