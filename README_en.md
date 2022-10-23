@@ -53,7 +53,7 @@ Note 3: Please respect the wisdom of others, when reprinting the camera bag on t
 - Tips for photo imperfections
 - Lens dirty reminder
 - More sliding zoom magnifications
-- Add Google Smart Lens to Xiaomi.EU system
+- Removed the international version logo
 - Professional mode video and audio infographics
 - New VLOG mode
 - Sweep in more modes
