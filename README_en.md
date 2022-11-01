@@ -32,7 +32,7 @@ Note 3: Please respect the wisdom of others, when reprinting the camera bag on t
 - long exposure
 - Document Mode 2.0
 - Professional mode photo style
-- Multi-camera continuous recording (only for public version/Leica version from 220905)
+- Multi-camera continuous recording
 - Silent Street Shooting (Continuous Shooting + Video) (※)
 - More modes of the Great Demon King Kino camera interface UI (※)
 - New version of camera watermark (※)
@@ -40,17 +40,17 @@ Note 3: Please respect the wisdom of others, when reprinting the camera bag on t
 - Leica Vivid/Classic mode (Leica version only)
 - Leica filter (Leica version only)
 - 10/10S/10T/10TP/K30SU 480Fps slow motion
-- 11T/K40/K50 rear camera 4K 60Fps (Leica version only)
+- 11T/K40/K50 rear camera 4K 60Fps
 - Proactive 1080p 60Fps
 - Proactive fill light interface
 - Portrait mode proactive beauty
 - Movie mode
-- Audio zoom (Leica version only)
-- 3D Stereo (Leica version only)
-- Wind noise reduction (Leica version only)
-- Headphone radio (Leica version only)
-- Lens animation (Leica version only)
-- Video portrait filter (Leica version only)
+- Audio zoom
+- 3D Stereo
+- Wind noise reduction 
+- Headphone radio
+- Lens animation
+- Video portrait filter
 - Tips for photo imperfections
 - Lens dirty reminder
 - More sliding zoom magnifications
@@ -61,6 +61,7 @@ Note 3: Please respect the wisdom of others, when reprinting the camera bag on t
 - Automatic download
 - 2X zoom for front camera
 - Human eye tracking
+- Sound settings
 
 Since version 0700, the following functions are no longer enabled on all models due to ineffectiveness or impracticality:
 
@@ -68,7 +69,6 @@ Since version 0700, the following functions are no longer enabled on all models 
 - Male makeup adaptation
 - Selfie Makeup 1, 2
 - Take pictures to speed up
-- Sound settings
 - Portrait flash
 - Image quality enhancement
 - Focus on everything
