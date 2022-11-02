@@ -9,15 +9,10 @@
 - This version is the Preview-Dev experience version, please do not report errors, if you need stable use, please move to the stable version to use
 
 ### 重點更新內容
-- 移植 v4.5.001140.2 (Redmi Note 12 Pro) 的 lib 成像庫
-- 新增 懸浮快門鍵
-- 新增 化妝鏡
-- 新增 聲音設定
-- 修正 萌拍形象無法使用
-- 修正 初次進入相機時的徠卡介紹圖與文字說明不符情形
-- 修正 Xiaomi 12T Pro (Diting) 浮水印無法顯示問題
-- 改善 更多模式面板選單為徠卡樣式
-- 改善 繁體中文部分翻譯
+- 新增 提詞器
+- 新增 智慧構圖（可以在高解析度模式下拍攝的照片使用該功能）
+- 新增 智慧構圖所需要的 Bokeh 與系統 lib 庫檔案（提取自Xiaomi 12T Pro）
+- 修正 人眼追焦導致部分功能異常的問題（例如萌拍變焦時閃退）
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
