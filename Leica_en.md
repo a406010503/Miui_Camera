@@ -29,8 +29,8 @@ Applicable versions: 4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941,
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
-Installing this item may result in "Cammy" or "Camera Lost"
-If you don't know what Kami is and don't know how to save bricks, we strongly advise you not to use this mod!
+Installing this item may result in "boot loop" or "Camera Lost"
+If you don't know what boot loop is and don't know how to save bricks, we strongly advise you not to use this mod!
 
 By installing this module, you will be able to enjoy the exclusive Leica features of the Mi 12S series
 Included: Leica Classic, Leica Vivid Photo Style options can be turned on! (The default photo mode is Leica Vivid)
@@ -57,7 +57,7 @@ Advanced Settings is an unofficial feature added by Russian authors @Luffitys an
 As explained above, because Xiaomi is still trying to prevent the installation of Leica cameras, it is recommended that you install the camera in the Core Patch method first. <p>
 You can unzip the camera APK in the package (located in system/priv-app/MiuiCamera.apk) and install it directly by cracking the core <p>
 For example, the module Woobox software of Xposed has the function of Core Patch. It is installed using the "five functions fully open" of the core cracking. If you don't know what it means, it is not recommended for you to use it! <p>
-At present, we also provide TWRP version for users who have failed to install it. It is not recommended to flash in without Root (because there may still be a Core Patch), if you try to flash in and out of the problem, we will not be responsible for it! <p>
+At present, we also provide TWRP version for users who have failed to install it. It is not recommended to flash in without Root (because there may also be a Core Patch required), if you try to flash in and out of the problem, we will not be responsible for it! <p>
 ※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the Core Patch installation! </p>
 <p>
 9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version, and this problem should no longer exist, but it is still recommended that you install the camera in the Core Patch method.
