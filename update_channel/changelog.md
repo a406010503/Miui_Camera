@@ -7,9 +7,9 @@
 - In this version, we have added English translation, and will no longer accept feedback that cannot be installed in the future
 
 ### 重點更新內容
-- 改進 安裝腳本，增加了英語 (En) 翻譯
-- 升級 智慧構圖所需的 Bokeh 底層至 1.7.2.0（提取自 Redmi Note 12 Pro）
-- 新增 智慧構圖缺少的一項系統 lib 庫檔案（提取自 Xiaomi 12T Pro）
+- 升級 底層版本至 v4.5.001180.0 版本（共同開發 Github [@Hs0](https://github.com/Hs0)）
+- 繼續沿用 v4.5.001140.2 (Redmi Note 12 Pro) 版本的 lib 成像庫（比較健全）
+- 新增 智慧構圖缺少的一些系統 lib 庫檔案（提取自 Xiaomi 12T Pro）
 ＊備註：由於智慧構圖目前在部分機型可能無法正常顯示按鈕，如果您願意測試該問題，請加入我們的 [Telegram 聊天室](https://t.me/HolyBearHome_Chat)。
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
