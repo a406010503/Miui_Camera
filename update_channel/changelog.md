@@ -1,10 +1,6 @@
-### 重要警示
+### 重要警示 (Important warning)
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
-- 在本次版本當中我們加入了英語翻譯，今後不再接受安裝不上的回饋
-
-### Important warning
 - Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
-- In this version, we have added English translation, and will no longer accept feedback that cannot be installed in the future
 
 ### 重點更新內容
 - 升級 底層版本至 v4.5.001180.0 版本（共同開發 Github [@Hs0](https://github.com/Hs0)）
