@@ -19,7 +19,7 @@
 主要開發：[聖小熊 (@a406010503)](https://github.com/a406010503)<p>
 主要開發：[XXXF (@Hs0)](https://github.com/Hs0)<p>
 協助開發：[Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
-進階設定提供：[Luffitys (@Luffitys)](https://github.com/Luffitys)<p>
+進階設定提供：[Luffitys (@Luffitys)](https://github.com/Luffitys)、[roman yalta](https://4pda.to/forum/index.php?showuser=513933)<p>
 進階設定編譯：[Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
 ---
@@ -49,7 +49,7 @@
 - 新增進階設定
 - 新增實驗室選項
 <p>
-進階設定是由俄羅斯作者 @Luffitys、@kazhemons 協助新增的一個非官方功能的項目
+進階設定是由俄羅斯作者 [Luffitys (@Luffitys)](https://github.com/Luffitys)、[roman yalta](https://4pda.to/forum/index.php?showuser=513933)、[Majestic (@kazhemons)](https://github.com/kazhemons) 協助新增的一個非官方功能的項目
 
 ---
 
