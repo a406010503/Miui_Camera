@@ -48,6 +48,7 @@ I am not responsible for any equipment failures caused by the use of this camera
 Mainly in the trial version, the following content has been added:
 - New advanced level settings
 - Added lab option
+- KinoUI
 <p>
 Advanced Settings is an unofficial feature added by Russian authors Luffitys, roman yalta, Majestic
 
