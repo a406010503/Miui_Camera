@@ -22,6 +22,9 @@ Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
 Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)、[roman yalta](https://4pda.to/forum/index.php?showuser=513933)<p>
 Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
+### Sponsorship page has been opened
+- Now you can sponsor and support us through PayPal to keep us motivated for updates! **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
+
 ---
 
 ## Notes on Leica cameras
