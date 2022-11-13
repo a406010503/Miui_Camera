@@ -21,7 +21,8 @@
 - Please respect the wisdom of others, when reprinting the camera bag on this project, or when making modifications or secondary creations, please be sure to add the original author and source.
 
 ### Sponsorship page has been opened
-- Now you can sponsor and support us through PayPal to keep us motivated for updates! **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
+- Now, you can support and sponsor us through PayPal to give us the impetus to renew!
+**[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
 
 ---
 
