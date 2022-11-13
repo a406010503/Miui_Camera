@@ -22,6 +22,9 @@
 進階設定提供：[Luffitys (@Luffitys)](https://github.com/Luffitys)、[roman yalta](https://4pda.to/forum/index.php?showuser=513933)<p>
 進階設定編譯：[Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
+### 贊助網頁已經開通
+- 現在，你可以透過 PayPal 贊助並支持我們讓我們獲得更新的動力！ **[點我將前往贊助頁面](https://paypal.me/holybear0610)**
+
 ---
 
 ## 關於徠卡相機的說明
