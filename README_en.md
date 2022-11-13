@@ -16,9 +16,12 @@
 
 ---
 
-<b>Note 1: For details of Xiaomi 12S series Leica cameras , please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]<p>
-**Note 2: As the internal testing of the S865 model has been stopped, the public version of the camera will not continue to be updated in the future (the Leica version of the camera will continue to be updated).<p>
-Note 3: Please respect the wisdom of others, when reprinting the camera bag on this project, or when making modifications or secondary creations, please be sure to add the original author and source.</b></p>**
+### Note
+- For details of Xiaomi 12S series Leica cameras , please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
+- Please respect the wisdom of others, when reprinting the camera bag on this project, or when making modifications or secondary creations, please be sure to add the original author and source.
+
+### Sponsorship page has been opened
+- Now you can sponsor and support us through PayPal to keep us motivated for updates! **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
 
 ---
 
