@@ -23,7 +23,8 @@ Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)ã
 Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
 ### Sponsorship page has been opened
-- Now you can sponsor and support us through PayPal to keep us motivated for updates! **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
+- Now, you can support and sponsor us through PayPal to give us the impetus to renew!
+**[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
 
 ---
 
