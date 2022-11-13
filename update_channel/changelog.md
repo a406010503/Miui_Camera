@@ -3,10 +3,10 @@
 - Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
 
 ### 重點更新內容
-- 升級 底層版本至 v4.5.001180.0 版本（共同開發 Github [@Hs0](https://github.com/Hs0)）
-- 繼續沿用 v4.5.001140.2 (Redmi Note 12 Pro) 版本的 lib 成像庫（比較健全）
-- 新增 智慧構圖缺少的一些系統 lib 庫檔案（提取自 Xiaomi 12T Pro）
-＊備註：由於智慧構圖目前在部分機型可能無法正常顯示按鈕，如果您願意測試該問題，請加入我們的 [Telegram 聊天室](https://t.me/HolyBearHome_Chat)。
+- 加入可自由切換為徠卡相機介面的設定
+- 新增防誤觸模式
+- 新增弱光人像（適用於暗處拍攝人像情境）
+- 新增超級防抖、RAW格式、動態照片
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
