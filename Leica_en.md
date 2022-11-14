@@ -29,7 +29,7 @@ Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons
 ---
 
 ## Notes on Leica cameras
-Applicable versions: 4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110
+Applicable versions: 4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
