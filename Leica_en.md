@@ -88,11 +88,11 @@ The specific open function will be notified on the download page of the release!
 
 The biggest difference is that the Leica camera has built-in exclusive filter effects (Leica Vivid/Leica Classic), it is recommended to turn off your HDR function, the Leica taste will be more obvious!
 The later version added the color grading developed by the color grading team of the Caika research group. The effect of the Leica camera will definitely be better than the public version camera. <p>
-9/2 Update: Since version 4.5.000511.0, Leica features and public cameras have been merged into the same version, and new versions will force Leica features to be enabled for all models in the future.
+9/2 Update: Since version `4.5.000511.0`, Leica features and public cameras have been merged into the same version, and new versions will force Leica features to be enabled for all models in the future.
 
 ---
 
 ### Leica Camera License
 - Certificate of authorization is issued by [@Sevtinge](https://github.com/Sevtinge), licensed to [Holy Bear (a406010503)](https://github.com/a406010503) and modified twice, unauthorized reproduction, modification, third creation, etc. is strictly prohibited.
-- Certificate number: 2720-1972-8799-1540
-- This license is valid only for v4.3.004870.0 version
+- Certificate number: `2720-1972-8799-1540`
+- This license is valid only for `v4.3.004870.0` version
