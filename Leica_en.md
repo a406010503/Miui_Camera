@@ -66,6 +66,14 @@ At present, we also provide TWRP version for users who have failed to install it
 ※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the Core Patch installation! </p>
 <p>
 9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version, and this problem should no longer exist, but it is still recommended that you install the camera in the Core Patch method.
+   
+---
+   
+## What is Core Patch? How do I Core Patch?
+A Core Patch is essentially a way to bypass signature checks, bypass version checks, and therefore install or downgrade unofficially provided system apps at will.<p>
+Please refer to the following two Xposed modules for Core Patch, and make sure you have flashed the Lsposed framework before using them.
+- [Core Patch](https://github.com/LSPosed/CorePatch/releases)
+- [WooBox](https://github.com/Xposed-Modules-Repo/com.lt2333.simplicitytools)
 
 ---
 
@@ -73,12 +81,6 @@ At present, we also provide TWRP version for users who have failed to install it
 At present, we have tried to complete the functions mentioned in the project for Leica cameras.
 It allows you to experience some functions that are "officially stated that the hardware does not support" on your model to be turned on.
 The specific open function will be notified on the download page of the release!
-
----
-
-## Why is the camera's underlying version no longer updated?
-Since Xiaomi started to strengthen the model verification in version 4.5.000320.0, and it is meaningless to update the underlying version of the camera, we currently have the function of switching the watermark latitude, longitude and time in version 0320. If there is a similar switching function in the future I will try my best to do a transplant. <p>
-9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version. If there are more new features in the future, we will try our best to adapt to the new version.
 
 ---
 
@@ -91,7 +93,6 @@ The later version added the color grading developed by the color grading team of
 ---
 
 ### Leica Camera License
-- The v4.3.004870.0 version of the Leica camera of this project is based on the camera modification of [Vegeca Mobi Team](http://sevtinge.wecrane.club/micamera_44071202.html)
-- The original author of this version APK Mod: [@Sevtinge](https://github.com/Sevtinge), has been authorized, and has been approved by [Holy Bear(a406010503)](https://github.com/a406010503) twice Modification, reproduction, modification, secondary creation, etc. are strictly prohibited without permission.
+- Certificate of authorization is issued by [@Sevtinge](https://github.com/Sevtinge), licensed to [Holy Bear (a406010503)](https://github.com/a406010503) and modified twice, unauthorized reproduction, modification, third creation, etc. is strictly prohibited.
 - Certificate number: 2720-1972-8799-1540
-- This license is only applicable to v4.3.004870.0 version
+- This license is valid only for v4.3.004870.0 version
