@@ -7,12 +7,9 @@
 - This version is the Preview-Dev experience version, please do not report errors, if you need stable use, please move to the stable version to use
 
 ### 重點更新內容
-- 加入全新的進階設定選項（720p 位元率、飽和度、對比度、畸變校正、失真校正、陰影、熱噪點去除、色調映射等）
-- 加入可自由切換為徠卡相機介面的設定
-- 新增防誤觸模式
-- 新增弱光人像（適用於暗處拍攝人像情境）
-- 實驗室選項新增預設開啟後螢幕顯示預覽
-- 實驗室選項新增預設開啟聲控拍照
+- 新增強制支援錄影模式 60Fps
+- 新增預設開啟錄影超級防抖
+- 為全機型增加新版機型水印
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
