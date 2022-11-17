@@ -135,7 +135,7 @@ Miui-Camera相機下載：[點擊此處下載最新發行版](https://github.com
 ---
 
 ### 致謝
-- 感謝酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.wecrane.club/micamera_44071202.html) 技術提供
+- 感謝4PDA [@RomanYalta](https://4pda.to/forum/index.php?showuser=513933)、酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.wecrane.club/micamera_44071202.html) 技術提供
 
 ---
 
