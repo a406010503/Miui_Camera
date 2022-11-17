@@ -135,12 +135,12 @@ Miui-Camera相機下載：[點擊此處下載最新發行版](https://github.com
 ---
 
 ### 致謝
-- 感謝 4PDA [@RomanYalta](https://4pda.to/forum/index.php?showuser=513933)、酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.wecrane.club/micamera_44071202.html) 技術提供
+- 感謝 4PDA [@RomanYalta](https://4pda.to/forum/index.php?showuser=513933)、酷安[@小陳同學](http://www.coolapk.com/u/1388927)、[@Sevtinge](https://github.com/Sevtinge) 技術提供
 
 ---
 
 ### 徠卡相機授權許可證書
-- 本專案的v4.3.004870.0版本徠卡相機基於[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.wecrane.club/micamera_44071202.html)的相機修改
+- 本專案的v4.3.004870.0版本徠卡相機基於[菜卡玩機 Vegeca Mobi 團隊](http://sevtinge.wecrane.club/miuicam_mod/4870.html)的相機修改
 - 該版本 APK Mod 原作者：[@Sevtinge](https://github.com/Sevtinge)，已獲得授權，並經[聖小熊 (a406010503)](https://github.com/a406010503)二次修改，未經許可嚴禁轉載、修改、二次創作等。
 - 許可證書號：2720-1972-8799-1540
 - 此授權許可證書僅適用於v4.3.004870.0版本
