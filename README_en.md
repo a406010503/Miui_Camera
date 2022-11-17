@@ -137,7 +137,7 @@ Miui-Camera Camera Download: [Click here to download the latest release](https:/
 ---
 
 ### Thanks
-- Thanks to Cool An [@小陳同學](http://www.coolapk.com/u/1388927), [Vegeca Mobi Team](http://sevtinge.wecrane.club/micamera_44071202.html) Technology provided
+- Thanks to 4PDA [@RomanYalta](https://4pda.to/forum/index.php?showuser=513933)、Coolapk [@小陳同學](http://www.coolapk.com/u/1388927), [Vegeca Mobi Team](http://sevtinge.wecrane.club/micamera_44071202.html) Technology provided
 
 ---
 
