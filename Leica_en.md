@@ -19,7 +19,7 @@
 Main developer: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
 Main developer: [XXXF (@Hs0)](https://github.com/Hs0)<p>
 Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
-Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)、[roman yalta](https://4pda.to/forum/index.php?showuser=513933)<p>
+Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)、[RomanYalta](https://4pda.to/forum/index.php?showuser=513933)<p>
 Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
 
 ### Sponsorship page has been opened
@@ -54,7 +54,7 @@ Mainly in the trial version, the following content has been added:
 - Added lab option
 - KinoUI
 <p>
-Advanced Settings is an unofficial feature added by Russian authors Luffitys, roman yalta, Majestic
+Advanced Settings is an unofficial feature added by Russian authors Luffitys, RomanYalta, Majestic
 
 ---
 
