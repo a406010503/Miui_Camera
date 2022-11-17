@@ -142,7 +142,7 @@ Miui-Camera Camera Download: [Click here to download the latest release](https:/
 ---
 
 ### Leica Camera License
-- The v4.3.004870.0 version of the Leica camera of this project is based on the camera modification of [Vegeca Mobi Team](http://sevtinge.wecrane.club/micamera_44071202.html)
+- The v4.3.004870.0 version of the Leica camera of this project is based on the camera modification of [Vegeca Mobi Team](http://sevtinge.wecrane.club/miuicam_mod/4870.html)
 - The original author of this version APK Mod: [@Sevtinge](https://github.com/Sevtinge), has been authorized, and has been approved by [Holy Bear(a406010503)](https://github.com/a406010503) twice Modification, reproduction, modification, secondary creation, etc. are strictly prohibited without permission.
 - Certificate number: 2720-1972-8799-1540
 - This license is only applicable to v4.3.004870.0 version
