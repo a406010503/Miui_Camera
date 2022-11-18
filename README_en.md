@@ -69,6 +69,7 @@
 - Default Enable super OIS mode
 - Video HDR/AI mode
 - Image quality enhancement
+- Free switching of the Leica custom camera mode
 - Advanced settings for Dev version with customizable picture quality
 
 From version 0700, the following functions are no longer available on all models because they are useless or impractical.
