@@ -35,54 +35,84 @@
 - Magic clone
 - long exposure
 - Document Mode 2.0
-- Professional mode photo style
-- Multi-camera continuous recording
-- Silent Street Shooting (Continuous Shooting + Video) (※)
-- More modes of the Great Demon King Kino camera interface UI (※)
-- New version of camera watermark (※)
-- Leica custom frame (Leica version only)
-- Leica Vivid/Classic mode (Leica version only)
-- Leica filter (Leica version only)
+- Professional Mode Photo Style
+- Multi-camera recording
+- Silent street photography (continuous shooting + recording)(*)
+- More modes of Daimao Kino camera interface UI(*)
+- New camera watermark(*)
+- Leica custom frame (Leica custom camera mode only)
+- Leica Vivid/Classic mode (Leica custom camera mode only)
+- Leica filter (Leica custom camera mode only)
 - 10/10S/10T/10TP/K30SU 480Fps slow motion
-- 11T/K40/K50 rear camera 4K 60Fps
-- Proactive 1080p 60Fps
-- Proactive fill light interface
-- Portrait mode proactive beauty
+- Rear 1080p, 4K 24Fps/60Fps
+- Front 1080p 24Fps/60Fps
+- Front shooting fill light interface
+- Portrait mode front camera beauty
 - Movie mode
-- Audio zoom
-- 3D Stereo
-- Wind noise reduction 
-- Headphone radio
 - Lens animation
-- Video portrait filter
-- Tips for photo imperfections
-- Lens dirty reminder
-- More sliding zoom magnifications
-- Removed the international version logo
-- Professional mode video and audio infographics
+- Video Portrait Color Retention Filter
+- Photo Defect Alert
+- Dirty Lens Alert
+- More sliding zoom magnification
+- Removal of international logo
+- Professional mode recording video
 - New VLOG mode
-- Sweep in more modes
-- Automatic download
-- 2X zoom for front camera
-- Human eye tracking
-- Sound settings
+- More modes in sweep
+- Auto Download
+- Front photo 2X zoom
+- Human eye focus
+- Sound settings (audio zoom/3D stereo/intelligent noise reduction/headphone radio)
+- Lab mode with Leica Master lens
+- Studio mode with recording mode HEVC 10bit
+- Lab mode preset to enable voice activated photography
+- Lab mode preset to show preview on screen after opening
+- Default Enable super OIS mode
+- Video HDR/AI mode
+- Image quality enhancement
+- Advanced settings for Dev version with customizable picture quality
 
-Since version 0700, the following functions are no longer enabled on all models due to ineffectiveness or impracticality:
+From version 0700, the following functions are no longer available on all models because they are useless or impractical.
 
 - Full body mode
 - Male makeup adaptation
-- Selfie Makeup 1, 2
-- Take pictures to speed up
+- Selfie makeup 1 and 2
+- Photo acceleration
 - Portrait flash
-- Image quality enhancement
 - Focus on everything
-- Motion capture
-- remove moles
-- Master Shots
-- Video HDR/AI mode
-- close-up mode
+- Motion Capture
+- Mole Removal
+- Close up mode
+- Older Audio Zoom
+- Old 3D Stereo Sound
+- Old wind noise reduction
 
 ---
+
+### Note: The following instructions are lengthy, so please read them carefully before use.
+- The most complete version of MIUI 12.5 is `v4.3.003591.0(220326-220501), v4.3004561.0(220809) `People who need the original camera can use these two versions
+- Master lens is only available on Leica cameras, this function is extremely unstable, so do not accept any feedback on this function
+- The feature of silent street photography and street photography recording mode can only be used in the EU modified version.
+- As not tested in the models, if there is a problem with the function, please do not hesitate to report, thank you ~
+
+---Thank you.
+
+### Model watermark and Kino interface
+- The new version of the model watermark is now compatible with most models (version 221117)
+- Currently, the Kino interface is only available for the Dev version.
+
+---The new version of the floating watermark is now available for most models (version 221117).
+
+### Instructions for use
+- Magisk directly into the brush can be used (if the camera has problems, please try to clear the cache, will not be Google)
+- Only support MIUI13 stable version and development version or above
+- Since v4.3.003591.0 before the original camera version can be used in MIUI 12.5
+- Third-party ported MIUI ROMs cannot be used (ported to discontinued or other brands of phones)
+- EU ROM can be used on Xiaomi.EU ROM, please test the rest of the official changes yourself.
+
+---
+*** Translated with www.DeepL.com/Translator (free version) ***
+
+
 
 ### Precautions [The following instructions are long, please read them carefully before use]
 - Some functions only take effect in versions v4.3.003591.0 (220326-220501) and v4.3004561.0 (220809). The specific functions will be explained in the update log of this version
