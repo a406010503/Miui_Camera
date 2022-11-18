@@ -94,13 +94,10 @@ From version 0700, the following functions are no longer available on all models
 - The feature of silent street photography and street photography recording mode can only be used in the EU modified version.
 - As not tested in the models, if there is a problem with the function, please do not hesitate to report, thank you ~
 
----Thank you.
-
 ### Model watermark and Kino interface
 - The new version of the model watermark is now compatible with most models (version 221117)
 - Currently, the Kino interface is only available for the Dev version.
-
----The new version of the floating watermark is now available for most models (version 221117).
+- The new version of the floating watermark is now available for most models (version 221117).
 
 ### Instructions for use
 - Magisk directly into the brush can be used (if the camera has problems, please try to clear the cache, will not be Google)
@@ -110,9 +107,6 @@ From version 0700, the following functions are no longer available on all models
 - EU ROM can be used on Xiaomi.EU ROM, please test the rest of the official changes yourself.
 
 ---
-*** Translated with www.DeepL.com/Translator (free version) ***
-
-
 
 ### Precautions [The following instructions are long, please read them carefully before use]
 - Some functions only take effect in versions v4.3.003591.0 (220326-220501) and v4.3004561.0 (220809). The specific functions will be explained in the update log of this version
@@ -172,7 +166,7 @@ Miui-Camera Camera Download: [Click here to download the latest release](https:/
 ---
 
 ### Leica Camera License
-- The v4.3.004870.0 version of the Leica camera of this project is based on the camera modification of [Vegeca Mobi Team](http://sevtinge.wecrane.club/miuicam_mod/4870.html)
+- The `v4.3.004870.0` version of the Leica camera of this project is based on the camera modification of [Vegeca Mobi Team](http://sevtinge.wecrane.club/miuicam_mod/4870.html)
 - The original author of this version APK Mod: [@Sevtinge](https://github.com/Sevtinge), has been authorized, and has been approved by [Holy Bear(a406010503)](https://github.com/a406010503) twice Modification, reproduction, modification, secondary creation, etc. are strictly prohibited without permission.
-- Certificate number: 2720-1972-8799-1540
-- This license is only applicable to v4.3.004870.0 version
+- Certificate number: `2720-1972-8799-1540`
+- This license is only applicable to `v4.3.004870.0` version
