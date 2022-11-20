@@ -14,8 +14,7 @@
 **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
 
 ### 重點更新內容
-- 支援錄影模式 1080p 24Fps、4K 24Fps（感謝 [RomanYalta](https://4pda.to/forum/index.php?showuser=513933) 的幫助）
-- 新增實驗室選項預設開啟大師鏡頭功能
+- 進階設定 720p/1080p/4K 位元率新增一個可選的 Mbps 選項（感謝 [RomanYalta](https://4pda.to/forum/index.php?showuser=513933) 的幫助）
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
