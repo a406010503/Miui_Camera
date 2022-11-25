@@ -10,8 +10,11 @@
 **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
 
 ### 重點更新內容
-- 新增延時攝影速度
-- 新增進階設定 10bit HEVC (.265)（僅支援的機型）（感謝 [RomanYalta](https://4pda.to/forum/index.php?showuser=513933) 的幫助）
+- 將 lib 成像庫還原至 v4.5.001180.0
+- 新增進階設定 HDR 模式
+- 新增進階設定 國際版標識
+- 專業模式的拍照與錄影模式快門時間上限由 1/4000 改為 1/10000
+- 刪除了街拍模式的快門聲音
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
