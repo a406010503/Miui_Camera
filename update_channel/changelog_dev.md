@@ -1,3 +1,9 @@
+### 贊助網頁已經開通 (Sponsorship page has been opened)
+- 現在，你可以透過 PayPal 支持並贊助我們讓我們獲得更新的動力！
+- Now, you can support and sponsor us through PayPal to give us the impetus to renew!
+
+**[點我將前往贊助頁面](https://paypal.me/holybear0610)**
+
 ### 重要警示
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
 - 此版本為 Preview-Dev 體驗版本，如有任何錯誤請不要進行回報，如需穩定使用請移至穩定版本
@@ -6,19 +12,10 @@
 - Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
 - This version is the Preview-Dev experience version, please do not report errors, if you need stable use, please move to the stable version to use
 
-### 贊助網頁已經開通
-- 現在，你可以透過 PayPal 支持並贊助我們讓我們獲得更新的動力！
-**[點我將前往贊助頁面](https://paypal.me/holybear0610)**
-### Sponsorship page has been opened
-- Now, you can support and sponsor us through PayPal to give us the impetus to renew!
-**[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
-
 ### 重點更新內容
-- 將 lib 成像庫還原至 v4.5.001180.0
-- 新增實驗室選項 HDR 模式
-- 專業模式的拍照與錄影模式快門時間上限由 1/4000 改為 1/10000
-- 刪除了街拍模式的快門聲音
-- 加入錄影模式的進階設定
+- 修正 HDR 模式曝光過度
+- 新增 實驗室選項開啟 24 至 60 Fps 錄影平滑變焦（需要裝置硬體支援）
+- 新增 色調映射曲線的不修改選項
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
