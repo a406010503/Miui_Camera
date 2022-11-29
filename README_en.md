@@ -68,7 +68,6 @@
 - Lab mode preset to show preview on screen after opening
 - Default Enable super OIS mode
 - Video HDR/AI mode
-- Image quality enhancement
 - Free switching of the Leica custom camera mode
 - Advanced settings for Dev version with customizable picture quality
 
@@ -86,6 +85,7 @@ From version 0700, the following functions are no longer available on all models
 - Older Audio Zoom
 - Old 3D Stereo Sound
 - Old wind noise reduction
+- Image quality enhancement
 
 ---
 
