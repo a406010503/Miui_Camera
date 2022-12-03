@@ -1,6 +1,6 @@
 {
-	"version": "v4.5.001180.0",
-	"versionCode": "221129",
-	"zipUrl": "https://github.com/a406010503/Miui_Camera/releases/download/Miui_Camera_4.5.001180.0_221129/Magisk-MIUI_Camera-v221129-Pre-dev.zip",
+	"version": "v4.5.001520.3",
+	"versionCode": "221203",
+	"zipUrl": "https://github.com/a406010503/Miui_Camera/releases/download/Miui_Camera_4.5.001520.3_221203/Magisk-MIUI_Camera-v221203-Pre-dev.zip",
 	"changelog": "https://raw.githubusercontent.com/a406010503/Miui_Camera/main/update_channel/changelog_dev.md"
 }
