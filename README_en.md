@@ -18,7 +18,7 @@
 ---
 
 ### Note
-- For details of Xiaomi 12S series Leica cameras , please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
+- Leica cameras please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
 - Please respect the wisdom of others, when reprinting the camera bag on this project, or when making modifications or secondary creations, please be sure to add the original author and source.
 
 ### Sponsorship page has been opened
