@@ -17,7 +17,7 @@
 
 ---
 ### 注意
-- Xiaomi 12S系列的徠卡相機具體請見【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
+- 徠卡相機具體請見【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
 - 請尊重他人智慧結晶，轉載本專案上的相機包，或進行修改、二次創作時，請務必加上原作者及來源。
 
 ### 贊助網頁已經開通
