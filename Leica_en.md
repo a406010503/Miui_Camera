@@ -1,8 +1,10 @@
 <div align="center">
-   <img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
+<img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
    <h1>Miui Leica Camera Function Completion-Miui_Camera_Leica</h1>
    <p>
-       <b><a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
+       <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/Leica.md">繁體中文</a>  丨 English</b>
+   </p>
+   <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
    <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
    <a href="https://github.com/a406010503/Miui_Camera/"><img alt="Stars" src="https://img.shields.io/github/stars/a406010503/Miui_Camera?label=stars"></a>
    <a href="https://t.me/HolyBearHome"><img alt="Telegram Group" src="https://img.shields.io/badge/聖小熊の小屋-Telegram-blue.svg?logo=telegram"></a>
