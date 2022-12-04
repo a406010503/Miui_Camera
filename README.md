@@ -22,8 +22,8 @@
 
 ### 贊助網頁已經開通
 - 現在，你可以透過 Paypal 或愛發電平台支持並贊助我們讓我們獲得更新的動力！
-**[點我將前往 Paypal 贊助頁面](https://paypal.me/holybear0610)**
-**[點我將前往 愛發電 贊助頁面](https://afdian.net/a/HolyBear)**
+- **[點我將前往 Paypal 贊助頁面](https://paypal.me/holybear0610)**
+- **[點我將前往 愛發電 贊助頁面](https://afdian.net/a/HolyBear)**
 
 ---
 ### 模組介紹
