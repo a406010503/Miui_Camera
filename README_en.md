@@ -40,18 +40,18 @@
 - Multi-camera recording
 - Silent street photography (continuous shooting + recording)(*)
 - More modes of Daimao Kino camera interface UI(*)
-- New camera watermark(*)
-- Leica custom frame (Leica custom camera mode only)
-- Leica Vivid/Classic mode (Leica custom camera mode only)
-- Leica filter (Leica custom camera mode only)
+- New version of the camera floating watermark
+- Leica Custom Frame (Leica Custom Camera mode only)
+- Leica Vivid/Classic mode (only in Leica custom camera mode)
+- Leica filter (only in Leica custom camera mode)
 - 10/10S/10T/10TP/K30SU 480Fps slow motion
-- Rear 1080p, 4K 24Fps/60Fps
-- Front 1080p 24Fps/60Fps
-- Front shooting fill light interface
+- Rear 1080p, 4K 24Fps/60Fps on some models
+- Some models open front shooting 1080p 24Fps/60Fps
+- Front camera fill light interface
 - Portrait mode front camera beauty
 - Movie mode
 - Lens animation
-- Video Portrait Color Retention Filter
+- Video portrait color retention filter
 - Photo Defect Alert
 - Dirty Lens Alert
 - More sliding zoom magnification
@@ -60,17 +60,29 @@
 - New VLOG mode
 - More modes in sweep
 - Auto Download
+- Anti-touch mode
 - Front photo 2X zoom
-- Human eye focus
+- Human eye follow focus
 - Sound settings (audio zoom/3D stereo/intelligent noise reduction/headphone radio)
 - Lab mode with Leica Master lens
-- Studio mode with recording mode HEVC 10bit
+- Studio mode with recording mode on 10bit HEVC (.265)
 - Lab mode preset to enable voice activated photography
-- Lab mode preset to show preview on screen after opening
-- Default Enable super OIS mode
-- Video HDR/AI mode
-- Free switching of the Leica custom camera mode
-- Advanced settings for Dev version with customizable picture quality
+- Preview on screen when lab mode is preset on
+- 24 to 60 Fps recording smooth zoom on Lab option (requires device hardware support)
+- Super Anti-Shake mode on by default on some models
+- Recording HDR/AI mode
+- Freely switch between Leica custom camera modes
+- Intelligent composition
+- Recording modes supported 1080p 24Fps, 4K 24Fps
+- Increase the sharpness setting from 3 to 7 in Pro mode photo style
+- Maximum zoom magnification for Super Macro changed from x2 to x10
+- Maximum zoom magnification in High Resolution mode changed from x2 to x10
+- Maximum zoom magnification for recording in Professional mode changed from x6 to x10 (also available for 8K)
+- Maximum duration of short video recording changed from 15 seconds to 10 minutes
+- Maximum number of consecutive photos changed from default 50 to 1000
+- Advanced settings with customizable picture quality
+
+Translated with www.DeepL.com/Translator (free version)
 
 From version 0700, the following functions are no longer available on all models because they are useless or impractical.
 
