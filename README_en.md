@@ -82,8 +82,6 @@
 - Maximum number of consecutive photos changed from default 50 to 1000
 - Advanced settings with customizable picture quality
 
-Translated with www.DeepL.com/Translator (free version)
-
 From version 0700, the following functions are no longer available on all models because they are useless or impractical.
 
 - Full body mode
