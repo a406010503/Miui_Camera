@@ -108,13 +108,6 @@ From version 0700, the following functions are no longer available on all models
 
 ---
 
-### Model watermark and Kino interface
-- The new version of the model watermark is now compatible with most models (version 221117)
-- Currently, the Kino interface is only available for the Dev version.
-- The new version of the floating watermark is now available for most models (version 221117).
-
----
-
 ### Instructions for use
 - Magisk directly into the brush can be used (if the camera has problems, please try to clear the cache, will not be Google)
 - Only support MIUI13 stable version and development version or above
