@@ -50,7 +50,7 @@
 - Front camera fill light interface
 - Portrait mode front camera beauty
 - Movie mode
-- Lens animation
+- Smooth zoom
 - Video portrait color retention filter
 - Photo Defect Alert
 - Dirty Lens Alert
@@ -72,7 +72,7 @@
 - Super Anti-Shake mode on by default on some models
 - Recording HDR/AI mode
 - Freely switch between Leica custom camera modes
-- Intelligent composition
+- Xiaomi ProCut
 - Recording modes supported 1080p 24Fps, 4K 24Fps
 - Increase the sharpness setting from 3 to 7 in Pro mode photo style
 - Maximum zoom magnification for Super Macro changed from x2 to x10
