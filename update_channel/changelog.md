@@ -13,9 +13,8 @@
 - Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
 
 ### 重點更新內容
-- 修正 HDR 模式曝光過度
-- 新增 實驗室選項開啟 24 至 60 Fps 錄影平滑變焦（需要裝置硬體支援）
-- 新增 色調映射曲線的不修改選項
+- 修正 電影光效錯位問題
+- 修正 部分機型曝光過度
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
