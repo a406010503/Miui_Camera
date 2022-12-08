@@ -7,14 +7,15 @@
 ### 重要警示
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
 - 此版本為 Preview-Dev 體驗版本，將在測試穩定後轉為 Release 版本
+- 此版本可能有成像不佳問題，建議您優先使用 1180 版本
 
 ### Important warning
 - Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
 - This version is a Preview-Dev experience version, and will be converted to a Release version after testing and stabilization.
+- This version may have poor imaging issues, we recommend you to use version 1180 first
 
 ### 重點更新內容
-- 更新 底層版本至 v4.5.001520.3（共同開發 @Hs0(XXXF)）
-- 移植 v4.5.001450.2（Redmi Note 12 Pro）相機版本的部分成像庫
+- 修正 電影光效錯位問題
 - 修正 部分機型曝光過度
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
