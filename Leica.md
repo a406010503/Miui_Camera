@@ -11,7 +11,7 @@
    <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a><p>
       <a href="https://github.com/a406010503/Miui_Camera/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/a406010503/Miui_Camera?label=release"></a>
    <a href="https://github.com/a406010503/Miui_Camera/releases/"><img alt="Pre" src="https://img.shields.io/github/v/tag/a406010503/Miui_Camera?color=orange&include_prereleases&label=Pre-release"></a>
-   <p>一個基於 MIUI13（Android12）適配的 Magisk 徠卡相機模組</p>
+   <p>一個基於 <b>MIUI13（Android12）</b>適配的 Magisk 徠卡相機模組</p>
 </div>
 
 ---
