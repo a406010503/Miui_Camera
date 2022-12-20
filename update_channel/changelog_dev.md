@@ -13,8 +13,11 @@
 - This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
 ### 重點更新內容
-- 更新 底層版本至 v4.5.001620.2（Xiaomi 12S Ultra 相機）
-- 移植 v4.5.001570.2 Lib 成像庫（Xiaomi 13 相機）
+- 修改 版本號為 499999999
+- 移植 v4.5.001781.1 Lib 成像庫（Xiaomi 13 相機）
+- 移植 Xiaomi.eu 的街拍錄影模式
+- 將 Google Lens 收到選單裡
+- 將拍照模式上方功能選項做成開關（動態照片、超級微距、弱光人像）
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
