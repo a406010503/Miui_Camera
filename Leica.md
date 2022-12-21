@@ -45,7 +45,7 @@
 進行贊助後不接受退款要求以及個性化訂製服務，更新頻率將與先前完全相同，您深知可能在使用過程中出現影響體驗的問題，並且確實知道該項目有適配您的機型，您可以在 [Telegram 頻道](https://t.me/HolyBearHome/115)上查看相關資訊，您也確實看過[修改說明](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)以及[項目說明](https://github.com/a406010503/Miui_Camera/blob/main/README.md)，以上感謝您的理解與支持。
 
 開始贊助：☕️🍺
-[愛發電 (69 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
+[愛發電 (18 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
 [PayPal (10 USD)](http://paypal.me/holybear0610/10USD)；
 [PayPal (299 TWD)](http://paypal.me/holybear0610/299TWD)
 
