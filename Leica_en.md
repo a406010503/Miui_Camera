@@ -37,14 +37,14 @@ Applicable version: `1720`
 For those of you who have sponsored me before and need to try the latest version, please message me (TG:[@HolyBear0610](https://t.me/HolyBear0610)) with a screenshot of your previous sponsorship and I will provide the file after verification. be stopped permanently!
 
 Since the latest version is almost perfect, I will announce the price.
-`10 USD / 69 RMB / 299 TWD`.
+`10 USD / 18 RMB / 299 TWD`.
 
 As long as you sponsor, your rights will be available until the next change of the obfuscated code (usually once every 2-3 months), and I will announce every change of the obfuscated code here, but maybe Xiaomi will make a huge adjustment to the program structure one day, and I will announce it and how to deal with it then.
 
 After the sponsorship, no refund request and no personalized service will be accepted, the update frequency will be exactly the same as before, you know that there may be problems in the process of using the program, and you know that the program is suitable for your model, you can check the information on the [Telegram channel](https://t.me/HolyBearHome/115), and you have actually read the [modification instructions ](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md) and [Project Description](https://github.com/a406010503/Miui_Camera/blob/main/README .md), thank you for your understanding and support.
 
 Start sponsorship: ☕️🍺
-[LovePower (69 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
+[Afdian (18 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
 [PayPal (10 USD)](http://paypal.me/holybear0610/10USD)；
 [PayPal (299 TWD)](http://paypal.me/holybear0610/299TWD)
 
