@@ -13,9 +13,7 @@
 - This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
 ### 重點更新內容
-- 為全機型增加專業模式錄影 Tele 5x 選項
-- 修正 專業模式錄影 Tele 選項消失的問題
-- 刪除 Xiaomi 9T、Xiaomi 9T Pro、Redmi K20、Redmi K20 Pro 的圖片並行化處理、雙攝變焦功能
+- 更新 底層版本至 v4.5.001720.2（Xiaomi MIX Fold 2 相機）
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
