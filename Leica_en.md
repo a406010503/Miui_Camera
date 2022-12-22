@@ -29,10 +29,10 @@ Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons
 
 ---
 
-## How to get the latest version of camera?
+## How to get the latest version of camera with advanced settings and amazing features?
 Applicable version: `1720`
 
-`(UTC+8:00, Taipei) 2022-12-20 16:00` Those who have sponsored me before can get the early preview version v4.5.001720.2 for free, and there is no need to pay again for the subsequent updates, this is to thank all the sponsors for their recognition. Some features may no longer be available with this update (e.g. Pro Lens), but more features have been added (e.g. filters and watermarks for Redmi Note 12 series, new zoom bar) and long-standing bugs have been fixed.
+`(UTC+8:00, Taipei) 2022-12-20 16:00` Those who have sponsored me before can get v4.5.001720.2 for free, and there is no need to pay again for subsequent updates, this is to thank all the sponsors for their recognition. Some features may no longer be available with this update (e.g. Pro Lens), but more features have been added (e.g. filters and watermarks for Redmi Note 12 series, new zoom bar) and long-standing bugs have been fixed.
 
 For those of you who have sponsored me before and need to try the latest version, please message me (TG:[@HolyBear0610](https://t.me/HolyBear0610)) with a screenshot of your previous sponsorship and I will provide the file after verification. be stopped permanently!
 
@@ -77,7 +77,8 @@ Mainly in the trial version, the following content has been added:
 <p>
 Advanced Settings is an unofficial feature added by Russian authors Luffitys, RomanYalta, Majestic
 
-*The Release version without advanced settings is no longer available since `4.5.001520.0`, and the original Dev version will be merged into the Release version channel.
+*The Release version without advanced settings is no longer available since `4.5.001520.0`, and the original Dev version will be merged into the Release version channel. <p>
+*Advanced settings and magical features are no longer available from `4.5.001720.2`, and you will need to pay for them to unlock the item.
 
 ---
 
