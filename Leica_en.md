@@ -11,7 +11,7 @@
    <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a><p>
       <a href="https://github.com/a406010503/Miui_Camera/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/a406010503/Miui_Camera?label=release"></a>
    <a href="https://github.com/a406010503/Miui_Camera/releases/"><img alt="Pre" src="https://img.shields.io/github/v/tag/a406010503/Miui_Camera?color=orange&include_prereleases&label=Pre-release"></a>
-   <p>A Magisk Leica camera module based on <b>MIUI13（Android12）</b> adaptation</p>
+   <p>A Magisk Leica camera module based on <b>MIUI13-14（Android12-13）</b> adaptation</p>
 </div>
 
 ---
