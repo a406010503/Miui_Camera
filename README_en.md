@@ -82,22 +82,6 @@
 - Maximum number of consecutive photos changed from default 50 to 1000
 - Advanced settings with customizable picture quality
 
-From version 0700, the following functions are no longer available on all models because they are useless or impractical.
-
-- Full body mode
-- Male makeup adaptation
-- Selfie makeup 1 and 2
-- Photo acceleration
-- Portrait flash
-- Focus on everything
-- Motion Capture
-- Mole Removal
-- Close up mode
-- Older Audio Zoom
-- Old 3D Stereo Sound
-- Old wind noise reduction
-- Image quality enhancement
-
 ---
 
 ### Note: The following instructions are lengthy, so please read them carefully before use.
