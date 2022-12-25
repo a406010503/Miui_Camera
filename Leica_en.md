@@ -18,10 +18,8 @@
 
 ## Developer
 Main developer: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
-Main developer: [XXXF (@Hs0)](https://github.com/Hs0)<p>
-Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge)<p>
-Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys)、[RomanYalta](https://4pda.to/forum/index.php?showuser=513933)<p>
-Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons)</p>
+Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge), [Majestic (@kazhemons)](https://github.com/kazhemons)<p>
+Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys), [RomanYalta](https://4pda.to/forum/index.php?showuser=513933)<p>
 
 ### Sponsorship page has been opened
 - Now, you can support and sponsor us through PayPal to give us the impetus to renew!
@@ -30,7 +28,7 @@ Advanced Settings Compiler: [Majestic (@kazhemons)](https://github.com/kazhemons
 ---
 
 ## How to get the latest version of camera with advanced settings and amazing features?
-Applicable version: `1720`
+Applicable version: `1720, 1800`
 
 `(UTC+8:00, Taipei) 2022-12-20 16:00` Those who have sponsored me before can get v4.5.001720.2 for free, and there is no need to pay again for subsequent updates, this is to thank all the sponsors for their recognition. Some features may no longer be available with this update (e.g. Pro Lens), but more features have been added (e.g. filters and watermarks for Redmi Note 12 series, new zoom bar) and long-standing bugs have been fixed.
 
@@ -49,8 +47,18 @@ Start sponsorship: ☕️🍺
 [PayPal (299 TWD)](http://paypal.me/holybear0610/299TWD)
 
 ---
+
+## Why do you charge?
+Applicable versions: `1720, 1800`.
+
+We have spent a lot of time on this project. Usually a large version requires a lot of effort to find obfuscated code, and the labor and time spent on this process is huge.
+In order to produce better quality camera work in the future, and to make our efforts more valuable, we have adopted a fee.
+You may think that advanced settings and other features are not your work, so why do you charge for them? Because we spend about the same amount of labor and time to add this project as we do to find confusing code.
+And we're the only ones doing it for now, so if you're willing to join our team and help out every time (with love, and almost weekly), then I'll consider making it all free.
+
+---
 ## Notes on Leica cameras
-Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520、1620、1720`
+Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800`
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
