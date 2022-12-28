@@ -42,11 +42,18 @@
 
 進行贊助後不接受退款要求以及個性化訂製服務，更新頻率將與先前完全相同，您深知可能在使用過程中出現影響體驗的問題，並且確實知道該項目有適配您的機型，您可以在 [Telegram 頻道](https://t.me/HolyBearHome/115)上查看相關資訊，您也確實看過[修改說明](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)以及[項目說明](https://github.com/a406010503/Miui_Camera/blob/main/README.md)，以上感謝您的理解與支持。
 
-開始贊助：☕️🍺
+- 開始贊助：☕️🍺
 [愛發電 (18 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
 [PayPal (10 USD)](http://paypal.me/holybear0610/10USD)；
 [PayPal (299 TWD)](http://paypal.me/holybear0610/299TWD)
 
+
+- 您現在可透過加密貨幣支付平台發送 USDT (泰達幣) 給我們支付款項！<p>
+針對俄羅斯等不方便使用 PayPal 支付工具的國家另一個付費管道，<p>
+您僅需支付 10 USDT 並提供轉出錢包的地址即可加入我們的相機付費群組。<p>
+<p>
+USDT-TRC20 地址：`TYyy6ZgUNooHKQy6dZQsBZvJGgoobNhCga`
+   
 ---
 
 ## 為什麼收費？
