@@ -41,10 +41,15 @@ As long as you sponsor, your rights will be available until the next change of t
 
 After the sponsorship, no refund request and no personalized service will be accepted, the update frequency will be exactly the same as before, you know that there may be problems in the process of using the program, and you know that the program is suitable for your model, you can check the information on the [Telegram channel](https://t.me/HolyBearHome/115), and you have actually read the [modification instructions ](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md) and [Project Description](https://github.com/a406010503/Miui_Camera/blob/main/README.md), thank you for your understanding and support.
 
-Start sponsorship: ☕️🍺
+- Start sponsorship: ☕️🍺
 [Afdian (18 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
 [PayPal (10 USD)](http://paypal.me/holybear0610/10USD)；
 [PayPal (299 TWD)](http://paypal.me/holybear0610/299TWD)
+   
+- You can now send USDT to us for payment through the cryptocurrency payment platform! <p>
+Another payment channel for countries that are not convenient to use PayPal payment tools such as Russia, <p>
+You only need to pay 10 USDT and provide the address of the transfer wallet to join our camera payment group. <p>
+USDT-TRC20 address: `TYyy6ZgUNooHKQy6dZQsBZvJGgoobNhCga`
 
 ---
 
