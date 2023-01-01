@@ -29,7 +29,7 @@
 
 ### Module introduction
 ★ The following camera functions are additionally completed (※)
-- Mimoji 3.0
+- Mimoji 4.0 (220101~)
 - Super Moon
 - movie footage
 - Gestures to take pictures
@@ -39,11 +39,12 @@
 - Professional Mode Photo Style
 - Multi-camera recording
 - Silent street photography (continuous shooting + recording)(*)
-- More modes of Daimao Kino camera interface UI(*)
-- New version of the camera floating watermark
-- Leica Custom Frame (Leica Custom Camera mode only)
-- Leica Vivid/Classic mode (only in Leica custom camera mode)
-- Leica filter (only in Leica custom camera mode)
+- More modes of Daimao Kino camera interface UI
+- New camera floating watermark
+- Leica custom frame (Leica custom camera mode only)
+- Film custom frame
+- Leica Vivid/Classic mode (Leica Custom Camera mode only)
+- Leica filter (only for Leica custom camera models)
 - 10/10S/10T/10TP/K30SU 480Fps slow motion
 - Rear 1080p, 4K 24Fps/60Fps on some models
 - Some models open front shooting 1080p 24Fps/60Fps
@@ -51,31 +52,37 @@
 - Portrait mode front camera beauty
 - Movie mode
 - Smooth zoom
-- Video portrait color retention filter
-- Photo Defect Alert
+- Portrait color retention filter
+- Photo Blemish Alert
 - Dirty Lens Alert
 - More sliding zoom magnification
 - Removal of international logo
 - Professional mode recording video
-- New VLOG mode
+- VLOG Pro mode
 - More modes in sweep
 - Auto Download
 - Anti-touch mode
 - Front photo 2X zoom
 - Human eye follow focus
-- Sound settings (audio zoom/3D stereo/intelligent noise reduction/headphone radio)
-- Lab mode with Leica Master lens
-- Studio mode with recording mode on 10bit HEVC (.265)
-- Lab mode preset to enable voice activated photography
-- Preview on screen when lab mode is preset on
-- 24 to 60 Fps recording smooth zoom on Lab option (requires device hardware support)
-- Super Anti-Shake mode on by default on some models
-- Recording HDR/AI mode
-- Freely switch between Leica custom camera modes
+- Sound settings (audio zoom/3D stereo/noise reduction/headphone radio)
 - Xiaomi ProCut
+- Recording HDR/AI mode
+- Recording mode support 30Fps
+- Free switching of Leica custom camera mode
+
+### Paid version
+- Free switching of lab options and advanced settings
+- Laboratory option with Leica Master lens
+- Lab option to turn on recording mode 10bit HEVC (.265)
+- Lab option with voice activated photography by default
+- Preview on screen when lab option is turned on by default
+- Lab option on 24 to 60 Fps recording smooth zoom (requires device hardware support)
+- Lab option on Always Super Shake mode
+- Recording mode prevents volume reduction of other media
 - Recording modes supported 1080p 24Fps, 4K 24Fps
-- Increase the sharpness setting from 3 to 7 in Pro mode photo style
-- Maximum zoom magnification for Super Macro changed from x2 to x10
+- Pro mode shutter time increased from 1/4000 to 1/10000 or 1/20000
+- Increase sharpness setting from 3 to 7 in Pro mode photo style
+- Super Macro maximum zoom magnification changed from x2 to x10
 - Maximum zoom magnification in High Resolution mode changed from x2 to x10
 - Maximum zoom magnification for recording in Professional mode changed from x6 to x10 (also available for 8K)
 - Maximum duration of short video recording changed from 15 seconds to 10 minutes
