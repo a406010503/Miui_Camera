@@ -28,7 +28,7 @@ Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys),
 ---
 
 ## How to get the latest version of camera with advanced settings and amazing features?
-Applicable version: `1720, 1800`
+Applicable version: `1720, 1800, 1970`
 
 `(UTC+8:00, Taipei) 2022-12-20 16:00` Those who have sponsored me before can get v4.5.001720.2 for free, and there is no need to pay again for subsequent updates, this is to thank all the sponsors for their recognition. Some features may no longer be available with this update (e.g. Pro Lens), but more features have been added (e.g. filters and watermarks for Redmi Note 12 series, new zoom bar) and long-standing bugs have been fixed.
 
@@ -54,7 +54,7 @@ USDT-TRC20 address: `TYyy6ZgUNooHKQy6dZQsBZvJGgoobNhCga`
 ---
 
 ## Why do you charge?
-Applicable versions: `1720, 1800`.
+Applicable versions: `1720, 1800, 1970`.
 
 We have spent a lot of time on this project. Usually a large version requires a lot of effort to find obfuscated code, and the labor and time spent on this process is huge.
 In order to produce better quality camera work in the future, and to make our efforts more valuable, we have adopted a fee.
@@ -63,7 +63,7 @@ And we're the only ones doing it for now, so if you're willing to join our team 
 
 ---
 ## Notes on Leica cameras
-Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800`
+Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800, 1970`
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
