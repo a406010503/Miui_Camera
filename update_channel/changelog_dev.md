@@ -13,7 +13,9 @@
 - This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
 ### 重點更新內容
-- 更新 底層版本至 v4.5.001800.5（Xiaomi Pad 5 Pro 相機）
+- 更新 底層版本至 v4.5.001970.4（Xiaomi MIX Fold 2 相機）
+- 更新 萌拍 4.0
+- 新增 長曝光
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
