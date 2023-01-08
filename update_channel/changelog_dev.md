@@ -4,11 +4,9 @@
 
 **[【點我將前往付費版本說明頁面 / Click to see more】](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)**
 
-### 重要警示
+### 重要警示 (Important warning)
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
 - 此版本為 Preview-Dev 體驗版本，可能有不穩定因素存在，此版本將在測試穩定後轉為 Release 版本
-
-### Important warning
 - Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
 - This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
