@@ -2,7 +2,7 @@
 - 現在，你可以透過 PayPal 或愛發電平台購買我們全新版本的相機（包含 @romanyalta 的進階設定與所有神奇的功能）！
 - Now you can purchase the new version of our camera (with advanced settings for @romanyalta and all the magic features) via the PayPal platform!
 
-**[點我將前往付費版本說明頁面 / Click to see more](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)**
+**[【點我將前往付費版本說明頁面 / Click to see more】](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)**
 
 ### 重要警示 (Important warning)
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
