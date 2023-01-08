@@ -1,8 +1,8 @@
-### 贊助網頁已經開通 (Sponsorship page has been opened)
-- 現在，你可以透過 PayPal 支持並贊助我們讓我們獲得更新的動力！
-- Now, you can support and sponsor us through PayPal to give us the impetus to renew!
+### 付費說明 (Payment instructions)
+- 現在，你可以透過 PayPal 或愛發電平台購買我們全新版本的相機（包含 @romanyalta 的進階設定與所有神奇的功能）！
+- Now you can purchase the new version of our camera (with advanced settings for @romanyalta and all the magic features) via the PayPal platform!
 
-**[點我將前往贊助頁面](https://paypal.me/holybear0610)**
+**[【點我將前往付費版本說明頁面 / Click to see more】](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)**
 
 ### 重要警示
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
@@ -13,9 +13,11 @@
 - This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
 ### 重點更新內容
-- 更新 底層版本至 v4.5.001970.4（Xiaomi MIX Fold 2 相機）
+- 更新 底層版本至 v4.5.002030.5（Xiaomi MIX FOLD 2 相機）
+- 更新 qigsaw_5.0.0.0_2.0.json 的 Mimoji 資源版本為 4.5.001223.0
 - 更新 萌拍 4.0
-- 新增 長曝光
+- 移除 部分支援機型
+- 新增 部分支援機型
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
