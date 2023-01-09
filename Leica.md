@@ -19,7 +19,7 @@
 ## 開發人員
 主要開發：[聖小熊 (@a406010503)](https://github.com/a406010503)<p>
 協助開發：[Sevtinge (@Sevtinge)](https://github.com/sevtinge)、[Majestic (@kazhemons)](https://github.com/kazhemons)<p>
-進階設定提供：[Luffitys (@Luffitys)](https://github.com/Luffitys)、[RomanYalta](https://4pda.to/forum/index.php?showuser=513933)<p>
+進階設定提供：[Luffitys (@Luffitys)](https://github.com/Luffitys)、[RomanYalta @romanyalta](https://4pda.to/forum/index.php?showuser=513933)<p>
 
 ### 贊助網頁已經開通
 - 現在，你可以透過 Paypal 或愛發電平台支持並贊助我們讓我們獲得更新的動力！
