@@ -1,0 +1,9 @@
+id=MIUI_MiuiCamera
+name=MIUI相機功能補全_Free_MIUI13
+version=v4.5.002120.1（Free_230210）
+versionCode=230210
+author=聖小熊
+description=具有徠卡攝像功能與演算法，加入自由切換徠卡相機介面，並開啟全機型萌拍4.0、街拍模式、多機連錄、VLOG Pro、化妝鏡、聲音設定、前攝補光介面、支援錄影60Fps等。請務必仔細詳讀設定頁裡的修改說明!
+updateJson=https://raw.githubusercontent.com/a406010503/Miui_Camera/main/update_channel/Miui_Camera.json
+minapi=30
+maxapi=32
