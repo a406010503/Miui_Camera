@@ -11,11 +11,12 @@
 - This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
 ### 重點更新內容
-- 更新 底層版本至 v4.5.002030.5（Xiaomi MIX FOLD 2 相機）
-- 更新 qigsaw_5.0.0.0_2.0.json 的 Mimoji 資源版本為 4.5.001223.0
-- 更新 萌拍 4.0
-- 移除 部分支援機型
-- 新增 部分支援機型
+- 更新 底層版本至 v4.5.002120.1（Xiaomi CIVI 2 相機）
+- 新增 萌拍版本自定義
+- 新增 更多 Tab 樣式自定義
+- 修正 街拍模式拍照時沒有無聲的問題
+- 解鎖 全機型 HEIF 格式選項
+- 新增 全機型錄影模式 720p/1080p/4K 24 Fps
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
