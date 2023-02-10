@@ -28,10 +28,10 @@ Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys),
 ---
 
 ## How to get the latest version of camera with advanced settings and amazing features?
-Applicable version: `1720, 1800, 1970, 2030`
+Applicable version: `1720, 1800, 1970, 2030, 2120`
 
 Paid version prices:
-`10 USD / 18 RMB / 299 TWD`
+`299 TWD (10 USD)`
 
 As long as you sponsor, your rights will be available until the next change of the obfuscated code (usually once every 2-3 months), and I will announce every change of the obfuscated code here, but maybe Xiaomi will make a huge adjustment to the program structure one day, and I will announce it and how to deal with it then.
 
@@ -40,10 +40,8 @@ After the sponsorship, no refund request and no personalized service will be acc
 After sponsorship, please message me (TG:[@HolyBear0610](https://t.me/HolyBear0610)) with a screenshot of your proof of sponsorship, and I will provide the file after verification.
 
 - Start sponsorship: ☕️🍺
-[Afdian (18 RMB)](https://afdian.net/item?plan_id=dfd7a8707e7b11eda1b452540025c377)；
-[PayPal (10 USD)](http://paypal.me/holybear0610/10USD)；
-[PayPal (299 TWD)](http://paypal.me/holybear0610/299TWD)
-   
+[PayPal (299 TWD / 10 USD)](http://paypal.me/holybear0610/299TWD)
+
 - You can now send USDT to us for payment through the cryptocurrency payment platform! <p>
 Another payment channel for countries that are not convenient to use PayPal payment tools such as Russia, <p>
 You only need to pay 10 USDT and provide the address of the transfer wallet to join our camera payment group. <p>
@@ -52,7 +50,7 @@ USDT-TRC20 address: `TYyy6ZgUNooHKQy6dZQsBZvJGgoobNhCga`
 ---
 
 ## Why do you charge?
-Applicable versions: `1720, 1800, 1970, 2030`
+Applicable versions: `1720, 1800, 1970, 2030, 2120`
 
 We have spent a lot of time on this project. Usually a large version requires a lot of effort to find obfuscated code, and the labor and time spent on this process is huge.
 In order to produce better quality camera work in the future, and to make our efforts more valuable, we have adopted a fee.
@@ -61,7 +59,7 @@ And we're the only ones doing it for now, so if you're willing to join our team 
 
 ---
 ## Notes on Leica cameras
-Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800, 1970, 2030`
+Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800, 1970, 2030, 2120`
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
