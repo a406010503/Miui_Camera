@@ -7,7 +7,7 @@
    </p>
    <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
    <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
-   <a href="https://crowdin.com/project/miui-camera-mod"><img alt="GitHub issues" src="https://badges.crowdin.net/miui-camera-mod/localized.svg"></a>
+   <a href="https://crowdin.com/project/miui-camera-mod"><img alt="localized" src="https://badges.crowdin.net/miui-camera-mod/localized.svg"></a>
    <a href="https://github.com/a406010503/Miui_Camera/"><img alt="Stars" src="https://img.shields.io/github/stars/a406010503/Miui_Camera?label=stars"></a>
    <a href="https://t.me/HolyBearHome"><img alt="Telegram Group" src="https://img.shields.io/badge/聖小熊の小屋-Telegram-blue.svg?logo=telegram"></a>
    <a href="https://github.com/a406010503/Miui_Camera/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/a406010503/Miui_Camera"></a><p>
