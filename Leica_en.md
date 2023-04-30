@@ -29,14 +29,14 @@ Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys),
 ---
 
 ## How to get the latest version of camera with advanced settings and amazing features?
-Applicable version: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 5.0`
+Applicable version: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
 
 Paid version prices:
 `299 TWD (10 USD)`
 
-As long as you sponsor, your rights will be available until the next change of the obfuscated code (usually once every 2-3 months), and I will announce every change of the obfuscated code here, but maybe Xiaomi will make a huge adjustment to the program structure one day, and I will announce it and how to deal with it then.
+From 5/1 onwards, the camera will be updated at will, the update time will be much longer and may even be terminated at any time. The camera itself does not have cloud control, you just need to download and install it to use it for life, of course, you can also use it for other devices.
 
-After the sponsorship, no refund request and no personalized service will be accepted, the update frequency will be exactly the same as before, you know that there may be problems in the process of using the program, and you know that the program is suitable for your model, you can check the information on the [Telegram channel](https://t.me/HolyBearHome/115), and you have actually read the [modification instructions ](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md) and [Project Description](https://github.com/a406010503/Miui_Camera/blob/main/README.md), thank you for your understanding and support.
+Refund requests and customization are not accepted after purchase (to customize watermarked content, please purchase another item), the update frequency will be exactly the same as before, and you are aware that there may be issues that affect your experience during use, and you do know that the item is available for your model (only for models launched after the 865 series, before 8+ Gen 1, and now with Redmi Note 12 Turbo), you can view the information on the [Telegram channel](https://t.me/HolyBearHome/115), and you did read the [modification instructions](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md) and the [project description](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md), thank you for your understanding and support.
 
 After sponsorship, please message me (TG:[@HolyBear0610](https://t.me/HolyBear0610)) with a screenshot of your proof of sponsorship, and I will provide the file after verification.
 
@@ -51,7 +51,7 @@ USDT-TRC20 address: `TYyy6ZgUNooHKQy6dZQsBZvJGgoobNhCga`
 ---
 
 ## Why do you charge?
-Applicable versions: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 5.0`
+Applicable versions: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
 
 We have spent a lot of time on this project. Usually a large version requires a lot of effort to find obfuscated code, and the labor and time spent on this process is huge.
 In order to produce better quality camera work in the future, and to make our efforts more valuable, we have adopted a fee.
@@ -60,7 +60,7 @@ And we're the only ones doing it for now, so if you're willing to join our team 
 
 ---
 ## Notes on Leica cameras
-Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 5.0`
+Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
 You choose to install the Leica camera of this project as if you have read all warnings on this project (including the following),
