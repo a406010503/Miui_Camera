@@ -17,13 +17,6 @@
 
 ---
 
-### 盜包公告
-- 盜包者 QQ 號 : 1325034752
-- 目標 QQ 群號 :  819413709
-- 盜包者姓名 : 韦兴林
-- 盜包者手機號 : 18385714075、15870276294
-- 盜包者居住地 : 贵州 黔东南苗族侗族自治州
-
 ## 開發人員
 主要開發：[聖小熊 (@a406010503)](https://github.com/a406010503)<p>
 協助開發：[Sevtinge (@Sevtinge)](https://github.com/sevtinge)、[Majestic (@kazhemons)](https://github.com/kazhemons)<p>
