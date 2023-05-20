@@ -18,6 +18,12 @@
 
 ---
 
+### Major Announcement
+- Due to the incident of camera creation infringement, the free version and paid version of this project are permanently stopped from now on, thank you for your continuous support.
+- The internal test version is still being updated and is only available to some invited users.
+
+---
+
 ### Note
 - Leica cameras please refer to [[Leica Camera Instructions (must see)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)]
 - Please respect the wisdom of others, when reprinting the camera bag on this project, or when making modifications or secondary creations, please be sure to add the original author and source.
