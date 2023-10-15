@@ -1,22 +1,12 @@
-### 付費說明 (Payment instructions)
-- 現在，你可以透過 PayPal 或愛發電平台購買我們全新版本的相機（包含 @romanyalta 的進階設定與所有神奇的功能）！
-- Now you can purchase the new version of our camera (with advanced settings for @romanyalta and all the magic features) via the PayPal platform!
-
-**[【點我將前往付費版本說明頁面 / Click to see more】](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)**
-
-### 重要警示 (Important warning)
+### 獨家特別版本說明
+- 此『獨家特別版本』擁有進階設定與各種神奇的功能。
+- 此版本為額外提供的獨家特別版本，不接受任何錯誤反饋，且後續也不再提供任何更新，故預計於發佈日的數天後本項目存放庫將會調整為唯讀模式。
+- 如果您想繼續支持我們，請參與付費計畫，詳情請參閱【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】以獲得較好的使用體驗。
 - 使用前請務必詳讀【[徠卡相機使用說明(必看)](https://github.com/a406010503/Miui_Camera/blob/main/Leica.md)】
-- 此版本為 Preview-Dev 體驗版本，可能有不穩定因素存在，此版本將在測試穩定後轉為 Release 版本
-- Please be sure to read [[Leica Camera Instructions (Must Read)](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md)] before use
-- This version is the Preview-Dev experience version, there may be unstable factors, this version will be tested and stabilized to Release version
 
 ### 重點更新內容
-- 更新 底層版本至 v4.5.002120.1（Xiaomi CIVI 2 相機）
-- 新增 萌拍版本自定義
-- 新增 更多 Tab 樣式自定義
-- 修正 街拍模式拍照時沒有無聲的問題
-- 解鎖 全機型 HEIF 格式選項
-- 新增 全機型錄影模式 720p/1080p/4K 24 Fps
+- 更新 底層版本至 v4.5.002540.1 (Redmi Note 12 Pro Speed / POCO X5 Pro 5G 相機)
+- 加入 進階設定與各種神奇的功能（獨家特別版本）
 
 *因版面問題詳細更新內容請見Github專案頁面，或前往設定頁→修改說明→Downloads查看。
 
