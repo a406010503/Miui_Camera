@@ -28,28 +28,6 @@ Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys),
 
 ---
 
-## How to get the latest version of camera with advanced settings and amazing features?
-Applicable version: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
-
-Paid version prices:
-`299 TWD (10 USD)`
-
-From 5/1 onwards, the camera will be updated at will, the update time will be much longer and may even be terminated at any time. The camera itself does not have cloud control, you just need to download and install it to use it for life, of course, you can also use it for other devices.
-
-Refund requests and customization are not accepted after purchase (to customize watermarked content, please purchase another item), the update frequency will be exactly the same as before, and you are aware that there may be issues that affect your experience during use, and you do know that the item is available for your model (only for models launched after the 865 series, before 8+ Gen 1, and now with Redmi Note 12 Turbo), you can view the information on the [Telegram channel](https://t.me/HolyBearHome/115), and you did read the [modification instructions](https://github.com/a406010503/Miui_Camera/blob/main/Leica_en.md) and the [project description](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md), thank you for your understanding and support.
-
-After sponsorship, please message me (TG:[@HolyBear0610](https://t.me/HolyBear0610)) with a screenshot of your proof of sponsorship, and I will provide the file after verification.
-
-- Start sponsorship: ☕️🍺
-[PayPal (299 TWD / 10 USD)](http://paypal.me/holybear0610/299TWD)
-
-- You can now send USDT to us for payment through the cryptocurrency payment platform! <p>
-Another payment channel for countries that are not convenient to use PayPal payment tools such as Russia, <p>
-You only need to pay 10 USDT and provide the address of the transfer wallet to join our camera payment group. <p>
-USDT-TRC20 address: `TYyy6ZgUNooHKQy6dZQsBZvJGgoobNhCga`
-
----
-
 ## Why do you charge?
 Applicable versions: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
 
